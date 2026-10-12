@@ -29,12 +29,12 @@
 
 | 版本 | 取得方式 | 適合的用法 |
 | --- | --- | --- |
-| 離線 HTML | [下載 archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/downloads/html/archcase-offline.html) | 單一檔案，下載後用瀏覽器開啟；內建地圖執行資源 |
-| 聯網 HTML | [下載 archcase.html](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/downloads/html/archcase.html) | 單一較小檔案，開啟時需要連網載入部分資源 |
+| 離線 HTML | [下載 archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase-offline.html) | 單一檔案，下載後用瀏覽器開啟；內建地圖執行資源 |
+| 聯網 HTML | [下載 archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase.html) | 單一較小檔案，開啟時需要連網載入部分資源 |
 | 網頁 / PWA | [網頁檔案與部署說明](web/README.zh-TW.md) | 將 `web/dist/` 放到靜態網站；在支援的瀏覽器中安裝或加入主畫面 |
 | Android APK | [下載 archcase-debug.apk](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/android/apk/archcase-debug.apk) · [安裝說明](android/README.zh-TW.md) | Android 7.0 以上的體驗版，目前為 Debug 建置 |
 
-GitHub 的檔案預覽頁只顯示 HTML 原始碼。若點擊後看到程式碼，請使用檔案頁的 **Download raw file（下載原始檔案）** 儲存，再用瀏覽器開啟。本儲存庫提供網頁檔案；PWA 部署步驟請見上方說明。
+上方 HTML 連結會直接下載 Releases 中的 `.html` 檔案。下載後，在瀏覽器的下載清單或系統檔案管理員中開啟即可；無需複製原始碼或更改副檔名。本儲存庫提供網頁檔案；PWA 部署步驟請見上方說明。
 
 離線 HTML、APK，以及首次成功快取後的 PWA，可以離線使用**世界概覽、案例索引、搜尋與分類**。街道底圖、GitHub 案例全文與外部來源仍需連網。若要離線閱讀完整筆記，請同時下載 MD 文件。手機對本機 HTML 的支援可能不同；iPhone 可透過 HTTPS 網站使用 PWA。
 
@@ -62,7 +62,7 @@ MD 檔案可以直接閱讀，也可以依工具的匯入方式放入 **Notion�
 
 也有 [Notion 版本](https://app.notion.com/p/3f4bdfcd663381a3aa5ed0267d6d283a)，能否存取取決於對應頁面的分享權限。GitHub 提供公開快照，兩個版本可能有更新差異。
 
-305 篇原始筆記保留現有名稱、正文、標籤與來源，內容有詳有略。本次僅公開案例與建築師兩個原始目錄，未包含其他理論、策略與哲學條目，也未匯出 Notion 的額外圖片。原文中指向其他目錄的關聯仍然保留；具體範圍請見[收錄說明](docs/collection-scope.zh-TW.md)。README 提供簡體中文、繁體中文與英文；其他儲存庫說明與使用文件提供簡繁雙語，原始學習筆記維持現有語言。
+305 篇原始筆記保留現有名稱、正文、標籤與來源，內容有詳有略。本次僅公開案例與建築師兩個原始目錄，未包含其他理論、策略與哲學條目，也未匯出 Notion 的額外圖片。原文中指向其他目錄的關聯仍然保留；具體範圍請見[收錄說明](docs/collection-scope.zh-TW.md)。README、HTML 下載說明與 Android 安裝指南提供簡體中文、繁體中文與英文；其餘儲存庫說明提供簡繁雙語，原始學習筆記維持現有語言。
 
 ## 5. 儲存庫檔案放在哪裡
 
