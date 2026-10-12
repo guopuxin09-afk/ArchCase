@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "ArchCase · 建筑案例地图",
+  "short_name": "ArchCase",
+  "description": "建筑案例地理索引，可离线搜索案例与浏览世界概览。",
+  "lang": "zh-Hans",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e7",
+  "theme_color": "#f5f1e7",
+  "categories": [
+    "education",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

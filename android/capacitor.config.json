@@ -1,0 +1,19 @@
+{
+  "appId": "com.archcase.atlas",
+  "appName": "ArchCase",
+  "webDir": "www",
+  "backgroundColor": "#f5f1e7",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "LIGHT",
+      "hidden": false
+    }
+  }
+}

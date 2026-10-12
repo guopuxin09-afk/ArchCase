@@ -1,0 +1,34 @@
+# Dependencies and local caches
+node_modules/
+**/node_modules/
+.cache/
+.tools/
+**/.tools/
+**/.gradle/
+**/.vite/
+**/build/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Private settings and credentials
+.env
+.env.*
+!.env.example
+.openai/
+**/.openai/
+.obsidian/
+**/.obsidian/
+**/local.properties
+*.keystore
+*.jks
+*.pem
+
+# Native/platform output generated locally
+**/Pods/
+android/output/
+web/node_modules/
+
+# Public artifacts are deliberately retained:
+# web/dist/, downloads/html/, android/apk/, android/www/

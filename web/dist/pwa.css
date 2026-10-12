@@ -1,0 +1,23 @@
+/* Additions preserve the original map, sheet and visual language. */
+html,body{overflow:hidden;overscroll-behavior:none}
+.atlas{height:var(--pwa-height,100dvh);padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.masthead{padding-top:calc(21px + env(safe-area-inset-top,0px))}
+[hidden]{display:none!important}
+.pwa-state{pointer-events:none;display:flex;align-items:center;min-height:36px;padding:8px 12px;border:1px solid var(--glass-border);border-radius:999px;font-size:10px;color:var(--accent);background:var(--glass-strong);-webkit-backdrop-filter:var(--glass-blur);backdrop-filter:var(--glass-blur);white-space:nowrap}
+.pwa-dialog{position:fixed;inset:0;width:min(390px,calc(100% - 32px));max-height:calc(var(--pwa-height,100dvh) - 48px - env(safe-area-inset-top,0px) - env(safe-area-inset-bottom,0px));overflow:auto;margin:auto;border:1px solid var(--glass-border);border-radius:28px;padding:28px;background:var(--white);color:var(--ink);box-shadow:var(--shadow)}
+.pwa-dialog::backdrop{background:#30231966;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.pwa-dialog-icon{border-radius:16px;margin-bottom:14px}
+.pwa-dialog-close{position:absolute;right:14px;top:14px;width:44px;height:44px;font-size:24px;border:0;border-radius:50%;background:var(--soft);color:var(--muted)}
+.pwa-eyebrow{font:9px var(--mono);letter-spacing:1.8px;color:var(--accent);margin:0 0 10px}
+.pwa-dialog h2{font-size:20px;font-weight:500;line-height:1.4;margin:0 0 12px;letter-spacing:.3px}
+.pwa-dialog-intro{font-size:13px;line-height:1.7;margin:0 0 12px}
+.pwa-dialog ol{padding-left:22px;margin:0 0 18px;font-size:13px;line-height:1.8}
+.pwa-dialog li+li{margin-top:8px}
+.pwa-cache-info{font-size:12px;color:var(--accent);padding:12px 14px;background:var(--accent-soft);border-radius:14px;margin:0 0 12px}
+.pwa-dialog-note{font-size:11px;line-height:1.8;color:var(--muted);margin:0 0 18px}
+.pwa-confirm{min-height:44px;width:100%;background:var(--accent);color:var(--white)}
+@media(orientation:portrait){.masthead{padding-top:calc(12px + env(safe-area-inset-top,0px))}.search{font-size:16px}.category{min-height:36px}.case-link,.sidebar-close,.search-clear{min-width:36px;min-height:36px}.search-clear{top:4px;right:4px}.header-controls .language-switch button{min-width:36px;min-height:30px}.header-controls .theme-toggle button{width:30px;min-height:30px}.map-top{gap:6px}.pwa-install{padding-inline:11px}}
+@media(orientation:portrait) and (max-width:374px){.masthead h1{font-size:18px}.eyebrow{font-size:6.5px;letter-spacing:.4px}.updated{font-size:8px}.header-controls{gap:3px}.header-controls .language-switch button{min-width:32px;padding-inline:5px}.header-controls .theme-toggle button{width:28px}.pwa-state{padding-inline:9px}}
+@media(display-mode:standalone){.pwa-install{display:none}}
+html[data-pwa-standalone="true"] .pwa-install{display:none}
+html[data-theme="dark"] .pwa-dialog{background:#211c17}

@@ -1,0 +1,17 @@
+* text=auto
+*.md text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.sh text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+*.apk binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.jar binary
+*.zip binary

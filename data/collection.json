@@ -1,0 +1,1745 @@
+{
+  "snapshot_date": "2026-10-13",
+  "cases": 221,
+  "categories": [
+    {
+      "name": "01 文化建筑",
+      "cases": 75
+    },
+    {
+      "name": "02 教育建筑",
+      "cases": 22
+    },
+    {
+      "name": "03 体育建筑",
+      "cases": 7
+    },
+    {
+      "name": "04 酒店建筑",
+      "cases": 0
+    },
+    {
+      "name": "05 医疗建筑",
+      "cases": 2
+    },
+    {
+      "name": "06 工业建筑与基础设施",
+      "cases": 10
+    },
+    {
+      "name": "07 商业建筑与办公建筑",
+      "cases": 22
+    },
+    {
+      "name": "08 公共建筑",
+      "cases": 14
+    },
+    {
+      "name": "09 宗教建筑",
+      "cases": 15
+    },
+    {
+      "name": "10 居住建筑",
+      "cases": 42
+    },
+    {
+      "name": "11 改造建筑",
+      "cases": 11
+    },
+    {
+      "name": "12 景观建筑",
+      "cases": 1
+    }
+  ],
+  "architects": 83,
+  "architect_index_notes": 1,
+  "original_notes": [
+    {
+      "path": "notes/00 Cases/01 文化建筑/V&A邓迪设计博物馆_V&A Dundee.md",
+      "bytes": 1531,
+      "sha256": "1f7ae8ba42411821bee747e1c4861fd3e1a0f54025b4b048dcac80d3f105136e"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/世界剧院_Teatro del Mondo.md",
+      "bytes": 644,
+      "sha256": "731c4f3017966b6b24a8b92a4c7622a775aaaa11b5a5763e30acd2409814bb26"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/仙台媒体中心_Sendai Mediatheque.md",
+      "bytes": 1658,
+      "sha256": "a837907e6917195c5facca1dc384e603626bae9cbaaa12adc16b48992775e7ca"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/保拉·雷戈博物馆_Paula Rego Museum.md",
+      "bytes": 729,
+      "sha256": "9c64083f867e2339543549c80631c694b1e14288a3573d4a63679ba5e6d2a113"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/加利西亚当代艺术中心_Galician Center of Contemporary Art.md",
+      "bytes": 706,
+      "sha256": "99130b333908cf712a9f08e9be15ea0fa7e922ecd30e4eab93ead2d3aa3776a1"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/勒·柯布西耶展_Pavilion Le Corbusier.md",
+      "bytes": 1164,
+      "sha256": "0941ab1dd2de3619ac3a1802c9488f3e5f0268373075dd03b559f72671fe8736"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/华特迪士尼音乐厅_Walt Disney Concert Hall.md",
+      "bytes": 1042,
+      "sha256": "c2a7a1d00c9c28eac5ea509c04a1f48fb34ef0d67d9a83f0cd18a4fa16ae33ca"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/卡塔尔国家博物馆_National Museum of Qatar.md",
+      "bytes": 979,
+      "sha256": "d76fc1921acfc73e7f4a6962c9c5d96ec0aab0de09464de86b4cd6bd2491e0c3"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/卢森堡爱乐音乐厅_Philharmonie Luxembourg.md",
+      "bytes": 789,
+      "sha256": "900cd9a693f4cee03c8b30f791811b866d15d1220e517a85e4ddf126ec4309cf"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/卢浮宫金字塔_Louvre Pyramid.md",
+      "bytes": 724,
+      "sha256": "2867b745a280c0c4845e6688381cdba4dd0880e45da71538021b6e0422406886"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/台中国家歌剧院_National Taichung Theater.md",
+      "bytes": 1353,
+      "sha256": "cd30bd98bae7448c2ac3ca6271e17ff8437d346deef00ec67f911027b0148e8f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/国立西洋美术馆_National Museum of Western Art.md",
+      "bytes": 1943,
+      "sha256": "37e06deab0b6fe0d26ea9c346ce75ebf4727585c4125ae806bf90d801ef02547"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/圣保罗艺术博物馆_São Paulo Museum of Art.md",
+      "bytes": 1349,
+      "sha256": "e5451cea7d127ebe0ad525dcca9e5c53422a92bc703b6d2aace868966b082513"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/培亚文化体育中心_SESC Pompeia.md",
+      "bytes": 1515,
+      "sha256": "65191191f383c04c12aa9acdd241492cc264fe75701208c47a48c1c9dae2cb25"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/大分县立图书馆_Oita Prefectural Library.md",
+      "bytes": 605,
+      "sha256": "233e27f5024d4dfda5443b7924ad437cab56516bafa7b69612574cd0c1e2da94"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/大都会艺术博物馆扩建_Metropolitan Museum of Art Expansion.md",
+      "bytes": 728,
+      "sha256": "7631d304f00a27fa094c7d8242b0987c799d4c2f2f11328f3eead25fad91d053"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/天津图书馆_Tianjin Library.md",
+      "bytes": 659,
+      "sha256": "342164d6b24b55d5f3511c36f4ab6b6229bc930aabe1ed5b0454e6b265edd520"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/威尼斯双年展北欧馆_Nordic Pavilion in Venice.md",
+      "bytes": 677,
+      "sha256": "d55ec1a3711df3ffafd6caa700e59e06ced9a70cd8ac733a009257841016cc0a"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/宁波博物馆_Ningbo Museum.md",
+      "bytes": 1184,
+      "sha256": "155fa78c0ab85ecc67e3e69d11979df54932d85515d3e9cb15bae26e1f97aba9"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/宁波美术馆_Ningbo Museum of Art.md",
+      "bytes": 613,
+      "sha256": "f7812af748982a0a8e95ab5cce4192be3e3db2067d99a00ae1cc7735ef653548"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/富士山世界遗产中心_Mount Fuji World Heritage Centre.md",
+      "bytes": 631,
+      "sha256": "b7b60b953e42e437d368d9c5c7aa84eae1dc28ab32103816410f7d386265d6cb"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/尼泰罗伊当代艺术博物馆_Niterói Contemporary Art Museum.md",
+      "bytes": 963,
+      "sha256": "740fd6c85334dee810692d7ff62ec70befb1e460cee7959ae5491a01a3162701"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/巴塞罗那当代艺术博物馆_MACBA Barcelona.md",
+      "bytes": 662,
+      "sha256": "503dee273a6cf658422898716e3821c989a354260a64b639ea440061cff56e91"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/巴塞罗那德国馆_Barcelona Pavilion.md",
+      "bytes": 1872,
+      "sha256": "3ba4603aaf6b519f8d5a7902393055fc3cfd81e17543c6c4473a37937194dc12"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/巴西雕塑博物馆_Brazilian Museum of Sculpture.md",
+      "bytes": 709,
+      "sha256": "da1b1e7c7aa560b648c9a7d6db8a8030f7b5f668140c158e416570c7cb3b2122"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/巴黎音乐城_Cité de la Musique.md",
+      "bytes": 1032,
+      "sha256": "3077e273d3f7a7cf644b089e68edafadc7e7dba6175a8b819450d2b1a21f837a"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/布雷根茨美术馆_Kunsthaus Bregenz.md",
+      "bytes": 1101,
+      "sha256": "17818f94695e2d080cc01b9a86760d04bfd65c4e3c097d885f5df9103452a750"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/帕尔马圣安东尼图书馆_Sant Antoni-Joan Oliver Library.md",
+      "bytes": 669,
+      "sha256": "e17ee44c07187fe920c0ac1664d982dba390ca6cf7d25befc7c6c02c1b3c77b7"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/幕张展览馆_Makuhari Messe.md",
+      "bytes": 612,
+      "sha256": "12a2a1f20f4c43a4381f2068571216be2d0ec20f7ae5a2d9e51fd5c35074d08f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/广州歌剧院_Guangzhou Opera House.md",
+      "bytes": 942,
+      "sha256": "bebce90682c15fd7c3d18a3a713c4b6ce0efc569fde9f15374403c0eef4de08a"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/库尔萨尔音乐厅_Kursaal Congress Centre.md",
+      "bytes": 682,
+      "sha256": "463a1e6f04360ce49f161e97b9883b456dd572e390006b7eae4deee24e4f514d"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/建川博物馆聚落_Jianchuan Museum Cluster.md",
+      "bytes": 1256,
+      "sha256": "08991aacf3f4aad5db974a97ab17911b5baa6970adea91841db69cef4c620d95"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/德国国家美术馆新馆_Neue Nationalgalerie.md",
+      "bytes": 1625,
+      "sha256": "af873a1c21cbe5869600ff49e46e452391a4cd41b6a2176a02f13a66564dfb7e"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/悉尼歌剧院_Sydney Opera House.md",
+      "bytes": 1191,
+      "sha256": "d70bb7d10c855c1ae2f6930467fdaa28b6d0b200fb9ff2e7277bb5fca3cd659a"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/惠特尼美术馆_The Breuer Building.md",
+      "bytes": 1060,
+      "sha256": "1aa79f50a3a2c10e5e0463fe62220ab8859dd890f2ccc6e0a3fbca8e98a1644c"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/所罗门古根海姆博物馆_The Solomon R. Guggenheim Museum.md",
+      "bytes": 1943,
+      "sha256": "b685ff64e9e43973295fab869baa73031427a30063f06caa82764b9c74470912"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/拜内克古籍手稿图书馆_Beinecke Rare Book & Manuscript Library.md",
+      "bytes": 1133,
+      "sha256": "165ad46b51f1d7825a77dac16f33bcc5300ad9dcf54b77449df2e7cc12f57ad1"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/挪威冰川博物馆_Norwegian Glacier Museum.md",
+      "bytes": 582,
+      "sha256": "171df2c9850cc4d4d1b46125a8e22856a090ad7c00362e9ffab6191757d87709"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/斯图加特美术馆_Neue Staatsgalerie.md",
+      "bytes": 1113,
+      "sha256": "c9ca036f5b207b6ea6d843d89e74f326dd1746d0290604db881ce19ca31b4096"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/斯德哥尔摩公共图书馆_Stockholm Public Library.md",
+      "bytes": 1615,
+      "sha256": "effdef9d623299f0f951836bd57b03daf60965c38d3d2fcce26a497595ba1d18"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/曼海姆多功能大厅_Mannheim Multihalle.md",
+      "bytes": 859,
+      "sha256": "d0225aabc87b95ceddd120e848b1f3440a9329e0553b155655e209c26c1787fd"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/柏林爱乐音乐厅_Berliner Philharmonic.md",
+      "bytes": 1218,
+      "sha256": "545903300a355b48795234e34e6f4e714da9491e7b147de2a139df4c831baaea"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/柏林犹太人博物馆_Jewish Museum Berlin.md",
+      "bytes": 1890,
+      "sha256": "381a0fb277c66d121f465bcb6134e3662469eede8b0a93aa70d16e8f9c1b43c5"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/横须贺美术馆_Yokosuka Museum of Art.md",
+      "bytes": 678,
+      "sha256": "4ad15e4949e60152914df92857fb83710da99598f3236e17617f876550ee2810"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/毕尔巴鄂古根海姆博物馆_ Guggenheim Museum Bilbao.md",
+      "bytes": 1421,
+      "sha256": "d6944f7c458012f91e3c48f557df3314e7643b345e33cd83d9921836818e07a0"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/水户艺术馆_Art Tower Mito.md",
+      "bytes": 566,
+      "sha256": "36c019effabba2e4c3ead06642dd8834add685327cc09b8d3cd98896b963285d"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/河流与赛艇博物馆_River and Rowing Museum.md",
+      "bytes": 607,
+      "sha256": "7d081f5b58dc49d740e9785463e0cf35631a5012b284d4427ce092f9ae55649f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/盖蒂中心_Getty Center.md",
+      "bytes": 902,
+      "sha256": "d0cec8391e34189070975215fb55739c88c44fdcc94ee5561ad34a308f5b4892"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/盖达尔·阿利耶夫中心_Heydar Aliyev Center.md",
+      "bytes": 1011,
+      "sha256": "6e08ae030618629160f7e7b88f2b6d87584a3f984971e0bfc63a2879ce538c60"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/纽约新当代艺术博物馆_New Museum, New York.md",
+      "bytes": 892,
+      "sha256": "81500d4568b3a28b5a09d97898d760e78554ee83ea5c855d38be0ab74b31d4e4"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/维堡图书馆_Viipuri Library.md",
+      "bytes": 965,
+      "sha256": "aa764c4a5994ae8a1c8856fa92cf290b359fbe72119d234ccb0d488ac9af1ea8"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/美国国家美术馆东馆_East Building, National Gallery of Art.md",
+      "bytes": 744,
+      "sha256": "3700482c3291fb3de0db4d053e2642e66d91b3f24cf931130ad3380b3d12597f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/苏州博物馆_Suzhou Museum.md",
+      "bytes": 1081,
+      "sha256": "c93b900cd196e16e26990ed4c46158ec3ec6d9ca13b7232cc4d3865f64fbfac9"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/苏拉热博物馆_Soulages Museum.md",
+      "bytes": 1028,
+      "sha256": "b8f67e42962754fd5f7209137321a36d7c6554f590263902dad25a529352f366"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/菲利普斯埃克塞特学院图书馆_Phillips Exeter Academy Library.md",
+      "bytes": 1423,
+      "sha256": "424f99c1a9a5bcfc4e10047fb426de252bd17d1406aef44383c5569752d35f86"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蒙特利尔世博会德国馆_German Pavilion, Montreal Expo.md",
+      "bytes": 995,
+      "sha256": "a5f6ecba90b0114c16e8ec47761409c67509f4965ef723923b2c90287bb84d1f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蓬皮杜中心_The Centre Pompidou.md",
+      "bytes": 1954,
+      "sha256": "687c25b4f6dc78ab4a3481171303bbe43e9a4d1e54514947185dda006485b159"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蓬皮杜梅斯中心_Centre Pompidou-Metz.md",
+      "bytes": 625,
+      "sha256": "415619e70b0c87ed6c1d018aa1819180e1fb0057e576c308b92164a01a455e2f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蛇形画廊2013_Serpentine Pavilion 2013.md",
+      "bytes": 1382,
+      "sha256": "dcc82d6890b006eaed0cd772fcf940a86f9e3ef90c2be760e7b4f82b30081cae"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蛇形画廊2014_Serpentine Gallery Pavilion 2014.md",
+      "bytes": 676,
+      "sha256": "09c552cb83142f1c444416337b3fdc05a4c08bd03814530d47b40a2ab0a5da28"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蛇形画廊2017_Serpentine Pavilion 2017.md",
+      "bytes": 855,
+      "sha256": "c6087992252a275e85ee3d5895546b423b153fe1c3cdb488107f09ce7b257764"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/蛇形画廊2019_Serpentine Pavilion 2019.md",
+      "bytes": 1469,
+      "sha256": "4dafbc7f0d28fa36a08062bdbce2eda6f7414f129e643157e4b435402835b37d"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/西班牙国家罗马艺术博物馆_National Museum of Roman Art.md",
+      "bytes": 1016,
+      "sha256": "8efdb1c09fd7b84820a8206375cb6369472fb3d85c8b670ff056de37dc718b52"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/西雅图中央图书馆_Seattle Central Library.md",
+      "bytes": 1006,
+      "sha256": "ae5d21fa1b54e6728dd476bff63728ebbb03d40d8489dad83a83fc744b3446bb"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/西雅图艺术博物馆_Seattle Art Museum.md",
+      "bytes": 640,
+      "sha256": "975dc8c4586ceb145de26b184cdb03bcc9e193cc8587cdfce2ee36a62e9e1843"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/詹姆斯·西蒙画廊_James-Simon-Galerie.md",
+      "bytes": 676,
+      "sha256": "430be474c307b4af0966fcaef4aa85ba9b8b2b79847d91f17f8cdeaa569b3083"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/赫什霍恩博物馆_Hirshhorn Museum.md",
+      "bytes": 708,
+      "sha256": "bca018ccc194e3413e63ba6ffcc09f0bcd7c1d452d17c1b6504a4bb5b3474c6f"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/都柏林会议中心_The Convention Centre Dublin.md",
+      "bytes": 636,
+      "sha256": "df5ec96923c81c964c055fabd47ec8fb4d486d8b0845c00715fed09c8b024ac9"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/金泽21世纪美术馆_21st Century Museum of Contemporary Art, Kanazawa.md",
+      "bytes": 1004,
+      "sha256": "b5974b64c6f2aa5caacaadacae2c2b9c05c3da1ca48c159a8840e850359391e3"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/金贝尔美术馆_Kimbell Art Museum.md",
+      "bytes": 1305,
+      "sha256": "0fd19b63359796459b79ffbbac7f35dba9189160ce435fda91232cd11014b9c7"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/门兴格拉德巴赫阿布泰贝格博物馆_Abteiberg Museum.md",
+      "bytes": 1011,
+      "sha256": "d9a25b18914c12c15636260a36503f0a35ce01eb50dbd6dcb3ce4c576fbe4fe0"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/阿布扎比卢浮宫_Louvre Abu Dhabi.md",
+      "bytes": 654,
+      "sha256": "1f542a30fa38e6582d2c22bd4141fc090f82a88fb66b1e2c7a8196d69d47ea0d"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/阿拉伯世界研究中心_The Arab World Institute.md",
+      "bytes": 1759,
+      "sha256": "132066606d9d80e62e57ed3f45597efbe156d7ce1f8ac0671cc975839ec1a903"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/鲁萨科夫工人俱乐部_Rusakov Workers' Club.md",
+      "bytes": 1578,
+      "sha256": "a7a47f24e07adf587da9bed27b6f7fbbb409cc6b0473e0531b360e3e68422dbd"
+    },
+    {
+      "path": "notes/00 Cases/01 文化建筑/鹿野苑石刻艺术博物馆_Luyeyuan Stone Sculpture Art Museum.md",
+      "bytes": 1197,
+      "sha256": "27511c75edad812256d2131d39b5449b394b197a14b14d0f415d0a8024e8e833"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/CEPT大学建筑学院_CEPT University School of Architecture.md",
+      "bytes": 684,
+      "sha256": "3ef784252925b0e48db375374acaaa3738abab0250f40889577c04fbb787660b"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/中国美术学院象山校区_Xiangshan Campus, China Academy of Art.md",
+      "bytes": 1290,
+      "sha256": "70027a1c7a4bb253e0cb239aacf85a9921d31e6ec11e5ba4df79f4d291cf8564"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/克朗楼_ S. R. Crown Hall.md",
+      "bytes": 1646,
+      "sha256": "7c39c648ab2251b737e1efc2e56aa4fc7a6471e2fb88892e112c45b93d928564"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/函馆未来大学_Future University Hakodate.md",
+      "bytes": 908,
+      "sha256": "ce27b60a698358f1a26aaa8995d9b19e3edb06326d0df1d39ca2429a82a99a91"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/利马工程技术大学_UTEC University of Engineering and Technology.md",
+      "bytes": 1053,
+      "sha256": "db2daf9eb2bc558b1d0f60f4c98bdf3fc3610f3962d2abb3bb04bb21b0dfb1c7"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/剑桥大学历史系图书馆_History Faculty Building, Cambridge.md",
+      "bytes": 1169,
+      "sha256": "110364ee1c232dc5ebac100e392c760f15662b8dce90ff8f56f07ffdd58957bb"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/劳力士学习中心_Rolex Learning Center.md",
+      "bytes": 1266,
+      "sha256": "cffd8a71d586975c7f883a9212a55cd92aa073c2340706aa7f26c3de088dbb22"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/博科尼大学_Bocconi University.md",
+      "bytes": 892,
+      "sha256": "67e1b9aa7ef9ebb0a8d8951f5d2c4d53b74a2ceaf775f9bacb43eeaaabb39d1f"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/卡彭特视觉艺术中心_Carpenter Visual Art Center.md",
+      "bytes": 1345,
+      "sha256": "55d833b659dffcb400aab92172390c88fe69a1bf464336075882553e93d46c49"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/印度管理学院_Indian Institute of Management Ahmedabad.md",
+      "bytes": 1300,
+      "sha256": "c535c3df4067a95c74c3c0d25c9fad2cb92014b42d4e8c06bdcd0623c306f0a8"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/多摩美术大学图书馆_Tama Art University Library.md",
+      "bytes": 680,
+      "sha256": "3e59e7cd6e0bc167ed2bb996eb0487908afd51e6fdd38defedf96f7aced3bb20"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/库珀联合学院41号楼_41 Cooper Square.md",
+      "bytes": 1316,
+      "sha256": "adb70cbe66c9ebfe57205a179de8439b1f24a995fd746c32062b422ccdca00dc"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/德绍包豪斯校舍_ Dessau Bauhaus.md",
+      "bytes": 2116,
+      "sha256": "92804263d96eaebb0ca11989e6335d21d04bd3eb7ca7db4c909b714d8be21445"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/智利天主教大学创新中心_Innovation Center UC.md",
+      "bytes": 1089,
+      "sha256": "7f84bb0f44415a19c9a21d55fd276f311e41ae8c3a083ad9c88be3f5a60ddfa5"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/格拉斯哥艺术学校_Glasgow School of Art.md",
+      "bytes": 985,
+      "sha256": "5d749f14e919e14cbeacfcdc4b0644b11f1441cad9dccce57f5a840cfcb71a53"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/武藏野美术大学图书馆_Musashino Art University Library.md",
+      "bytes": 1671,
+      "sha256": "8f7044a2fff9c5646822dd505114f5bb671232d9ee92d494886581d46702b9b3"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/甘多小学_Gando Primary School.md",
+      "bytes": 988,
+      "sha256": "0bc37483bb4c6ecc059bc3144379b402a36271da3f95d110f46222e2add654c1"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/神奈川工科大学KAIT工房_KAIT Workshop.md",
+      "bytes": 1564,
+      "sha256": "95e6447d0afbb18630fbe3f03a8d6783ed8b52659ba048539dab4b14af6fb404"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/耶鲁大学艺术与建筑学院大楼_ Yale Art and Architecture Building.md",
+      "bytes": 1478,
+      "sha256": "f9caae3f4b9ef4e067642ed7bf216f3b140701d0829d9e08ba2716de2e1eca97"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/莱斯特大学工程楼_Engineering Department University of Leicester.md",
+      "bytes": 1525,
+      "sha256": "779c3cae5859dea8614ea18f5456922f26744a8b7aed9d63602dc46860b7aa09"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/萨尔克生物研究所_Salk Institute for Biological Studies.md",
+      "bytes": 1759,
+      "sha256": "e6ca14fc927ac9bef595127355d9cfad00469a722d4cc8f70f4e080967d56e48"
+    },
+    {
+      "path": "notes/00 Cases/02 教育建筑/金斯顿大学联排住宅_Town House, Kingston University.md",
+      "bytes": 949,
+      "sha256": "575a8956b5c6c79b8a1b58ec47e99876432d0db841461d9dc0398557fb513e91"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/保利斯塔诺体育俱乐部_Paulistano Athletic Club.md",
+      "bytes": 667,
+      "sha256": "874e70c45aa26a08eed5bb1587ca138738084e5129b9d71352ee8d9d7fd2dba4"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/勒萨·德·帕梅拉游泳池_Leca Swimming Pools.md",
+      "bytes": 898,
+      "sha256": "9099866e0649dbc18f635b5a9bc1f8fd23e459c131088737e81a327e2b2c3ce8"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/国家体育场（鸟巢）_Beijing National Stadium.md",
+      "bytes": 925,
+      "sha256": "696d7524b85bf1618eb4768d3157ffa4a3a26c462c01c250dcdc1e9fc473526c"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/国立代代木竞技场_Yoyogi National Gymnasium.md",
+      "bytes": 1359,
+      "sha256": "b39833d5df7722ee0d216e047109e96c7a09c2cdd66d644d1a18e52534eedc5f"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/布拉加市政体育场_Braga Municipal Stadium.md",
+      "bytes": 708,
+      "sha256": "020f853865b785c81e9d0fa34aa6daf88bb2a835dfe731621f59c47239f96260"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/慕尼黑奥林匹克体育场_Olympiastadion (Munich).md",
+      "bytes": 1385,
+      "sha256": "dc2c8c1e652a1d3e3a2ee2715a6aa4b8d47c901d6c49a6a1b66cd92d60a2a994"
+    },
+    {
+      "path": "notes/00 Cases/03 体育建筑/日本国立竞技场_Japan National Stadium.md",
+      "bytes": 1692,
+      "sha256": "bd47d58a28f3503df6253f40624fdae6531d34bd01f5d9529a99655aeed1b4aa"
+    },
+    {
+      "path": "notes/00 Cases/05 医疗建筑/理查德医学研究中心_Richard Medical Research Laboratories.md",
+      "bytes": 1316,
+      "sha256": "6f764f9b488abcb58afae48efc4b72443e5e9d6c8780711b7f7f8e902e44a131"
+    },
+    {
+      "path": "notes/00 Cases/05 医疗建筑/瓦尔斯温泉浴场_Therme Vals.md",
+      "bytes": 1925,
+      "sha256": "ca2adfe96deab1e92d1325ad3cdbee47f08d0d70ad25ba4d5c62cb1a51b7ef1c"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/TWA航站楼_TWA Flight Center.md",
+      "bytes": 1471,
+      "sha256": "57a6ef945c2aa8d8489a8d10d31851588b8d60023c196f270292f75f34b7e3ce"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/京都站大楼_Kyoto Station Building.md",
+      "bytes": 1564,
+      "sha256": "8bb99db56975ab6b3084ce828479edd379c121deb2d1afc991cb9cc2aa5986df"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/关西国际机场_Kansai International Airport.md",
+      "bytes": 683,
+      "sha256": "3ee3c8f331569c2aa42d7220170344ae5e13b96ffe76fca2eee07c44f2de18ea"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/凡耐尔工厂_Van Nelle Factory.md",
+      "bytes": 1758,
+      "sha256": "1afa55e50dd50572bde5c96e21c23133b6f6566e0f0a7c5d78f2f0b0f985cfc6"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/横滨国际港客运中心_Yokohama International Port Terminal.md",
+      "bytes": 1656,
+      "sha256": "efb2ccb8b89207053355c177591578903c6feb26eb06ed914afe1eb43462d724"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/爱因斯坦天文台_Einstein Tower.md",
+      "bytes": 1651,
+      "sha256": "5745877d116a106477b11bb19093d8c5a6c0d2290049d512c51459a0af645035"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/菲亚特林格托工厂_Fiat Lingotto Factory.md",
+      "bytes": 1392,
+      "sha256": "e9ac9024092906777875c7d86671db8f7dcd4f5804ade2f8022360d249a2486c"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/通用电气透平机车间_ AEG Turbine Factory.md",
+      "bytes": 958,
+      "sha256": "0c187720cd4c4f59264ba46890bfcacf6d9fb8dad1c83df23ade8a65b2b8421d"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/香港国际机场_Hong Kong International Airport.md",
+      "bytes": 654,
+      "sha256": "2c05e0ed348ca219145b659a49906676b6547185be343b8ccb91df893012deb8"
+    },
+    {
+      "path": "notes/00 Cases/06 工业建筑与基础设施/马德里巴拉哈斯机场T4_Barajas Airport Terminal 4.md",
+      "bytes": 655,
+      "sha256": "905e4da84e3cfb5e4dd61f1c9c1fb7bafcd858651aa06a68d7036f8b05948174"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/伦敦劳埃德大厦_Lloyd's Building.md",
+      "bytes": 1375,
+      "sha256": "f2e54482e6f387df95ae3e974992b138c67cf52eb1744566c0f1cc3d4ed8e793"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/利华大厦_Lever House.md",
+      "bytes": 1490,
+      "sha256": "a5ea770662e3128fd881f7eb5350af16812ce3e8e5d7f5176068f94eba494ad6"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/加州交通局第七区总部_Caltrans District 7 Headquarters.md",
+      "bytes": 960,
+      "sha256": "433062c8e2e1887a06563ab154a9ace858de0dc8fea0e68326b593c1e58cc50b"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/博阿诺瓦茶室_Boa Nova Tea House.md",
+      "bytes": 837,
+      "sha256": "7481d98436223186cbae6f2558ff5a65d96f14288eda74ddb94c7dcfb209203d"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/哈斯商厦_Haas House.md",
+      "bytes": 993,
+      "sha256": "136576b26da51e82427d066a4a09ad2a45da5edd84eb4c7ccb7d01dae98d8d1e"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/央视总部大楼_CCTV Headquarters.md",
+      "bytes": 948,
+      "sha256": "a077777b4a87442b01e0cdfb129b0993c53f3f36943a278ada2c4ef76a284b9d"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/奥地利邮政储蓄银行_ Austrian Postal Savings Bank.md",
+      "bytes": 1067,
+      "sha256": "fee89a979b358d34d1ebc196e405616bc7374000b020dad82691402ae6c854f0"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/桑珈工作室_Sangath Architect's Studio.md",
+      "bytes": 703,
+      "sha256": "9993f0ebab708b5f50e232b493533b0133efe8855a21e44ac33e5cbebe42d02a"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/梅斯蒂索餐厅_Restaurant Mestizo.md",
+      "bytes": 638,
+      "sha256": "ea1f99dfe79b3163d689c656e8cd4849118956c86f2330dfbb70dff9f465b675"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/梅田蓝天大厦_Umeda Sky Building.md",
+      "bytes": 1457,
+      "sha256": "65b0043384a3cddd108d013f2d54934d085870b52d9afddf1688df7caadcc9c5"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/棉纺织协会总部_Mill Owners' Association Building.md",
+      "bytes": 1119,
+      "sha256": "8e242bdc537c5bc395d1ca350b133681618c211c7c47577d4593a0392cc7dc12"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/汉京中心_Hanking Tower.md",
+      "bytes": 1208,
+      "sha256": "6302e3fb1475f517e1c053e5b4d92f49be692f4bb5a25b12eb1bd5989c9b7ea8"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/瑞士再保险大厦_30 St Mary Axe.md",
+      "bytes": 1419,
+      "sha256": "38557fc31aa2abcd8740f60dda4d9eb300bd25e3bb23e16624f26eab7e782eb2"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/碎片大厦_The Shard.md",
+      "bytes": 623,
+      "sha256": "b5f24b4f6c3adaac9cf1189bd0c4773075a522e6363437b43c68868a2ee8dacd"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/福特基金会总部大楼_ Ford Foundation Building.md",
+      "bytes": 1318,
+      "sha256": "8068c683f64f9717ef92c98bba3f08224ace37fdebaf444313557ae272d39662"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/约翰逊制蜡公司总部_Johnson Wax Headquarters.md",
+      "bytes": 1661,
+      "sha256": "c699c51f12205dcdb20d6b611b46d3e14f5990a754c6e691334bbf6803ca84c2"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/维特拉会所_VitraHaus.md",
+      "bytes": 625,
+      "sha256": "8917463fdb4546c76329e8b297664a17f0e7a4694bd82932353d347f3545a9d2"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/美国电话电报大厦_AT&T Building.md",
+      "bytes": 1071,
+      "sha256": "b3c0c1d533d27ae0c48f436efaf4607794aa9ea6c02ec56dd4cac9bd1086ff0c"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/莱斯高尔斯餐厅_Les Cols Restaurant Marquee.md",
+      "bytes": 621,
+      "sha256": "1228747cf98cae77c75611f99e953fe9a4ef164d46f9c50587d2442a9e95cabc"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/螺旋大厦_Spiral Building.md",
+      "bytes": 975,
+      "sha256": "b361cede6df6000ef6e788b139356430b05d1401471e7355ba672ed6a8d3a61c"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/西格拉姆大厦_Seagram Building.md",
+      "bytes": 1727,
+      "sha256": "2415d3c2dbb8944a7a41c3235ce266cf0a10522fe468f158a1b949d42d64c4a8"
+    },
+    {
+      "path": "notes/00 Cases/07 商业建筑与办公建筑/香港汇丰银行总部_Hongkong and Shanghai Bank Headquarters.md",
+      "bytes": 1547,
+      "sha256": "9e5154d7d1a284b3c1870e7628cfc8306487d5e9bed11643bc2e5765ded0980a"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/哥德堡法院扩建_Gothenburg Courthouse Extension.md",
+      "bytes": 947,
+      "sha256": "38d49adb496ccedefb06de742056f3231843524e6d2c2eaea86cac16847d3ea7"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/孟加拉国国会大厦_National Parliament of Bangladesh.md",
+      "bytes": 1105,
+      "sha256": "f3abb4ccf88ebfcee59e7bfc7ba4e0577a5737683d28b71c111f9668363f172c"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/巴西议会大厦_National Congress.md",
+      "bytes": 1009,
+      "sha256": "d0d6efa4db55d8ba7715e9ff8fb6f337169ba0e6c0d188b4fe774d76c795ca79"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/昌迪加尔议会大厦_Palace of Assembly.md",
+      "bytes": 925,
+      "sha256": "93846768abe09098c447588ff800b56e9072055e6e1699ae0aacf92c8d8201a1"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/本斯贝格市政厅_Bensberg Town Hall.md",
+      "bytes": 670,
+      "sha256": "c0f2ef2af4f13a0ac10637775a2b9cca0b369ab1b11b6b185b4796a71f4fc928"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/特拉尼宫_Casa del Fascio.md",
+      "bytes": 1521,
+      "sha256": "7fbcfc2df36c45a04e7bfd952da8da6b001f8c98291f7f6339d18e68b1887843"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/珊纳特赛罗市政厅_Säynätsalo Town Hall.md",
+      "bytes": 1578,
+      "sha256": "67c1b99c9f9166b0e6340d50044f3fbb35f77a1aa2060cc13e1e2bb58f165ee6"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/科威特国民议会大厦_Kuwait National Assembly Building.md",
+      "bytes": 705,
+      "sha256": "2313a23198b1cd97efe572aa56fae0fa35c36315003649b74f3d0d5e1ddc041f"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/穆尔西亚市政厅_Murcia City Hall.md",
+      "bytes": 1006,
+      "sha256": "09bfbcd7d4880b31f5038db45b4d21fd01af59ae1b92da930f6cab99ed9fb213"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/筑波中心大厦_Tsukuba Center Building.md",
+      "bytes": 785,
+      "sha256": "01e09dc6aec9233bb06cd96de3dd1c2d4dde76c490c8ea00f99e9006186cd336"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/维特拉消防站_Vitra Fire Station.md",
+      "bytes": 959,
+      "sha256": "4edc7418bea02dd58445ee1ef051d7ff2ed30f84147508e84c035506f7faac4f"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/西村大院_West Village Basis Yard.md",
+      "bytes": 589,
+      "sha256": "979018e39e654ace9134170426d12fefa055559c522f9661c195971be0aeb1be"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/阿姆斯特丹市孤儿院_Amsterdam Orphanage.md",
+      "bytes": 1526,
+      "sha256": "cfb6831ddb68e5084d5f9a3dc7fe16df289f8a152585771e211fad20d9a3c12b"
+    },
+    {
+      "path": "notes/00 Cases/08 公共建筑/香川县厅舍_Kagawa Prefectural Government Hall.md",
+      "bytes": 856,
+      "sha256": "9546e39af6e66dd5e44badd65a3a7b63650a4668c3b4376a01d938766b3a608e"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/东京圣玛丽大教堂_St. Mary's Cathedral, Tokyo.md",
+      "bytes": 1221,
+      "sha256": "b869c3dc204867c21a8761881c7adfd9c24d1c8e22d19f238f5fb44e6cdabcac"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/伊瓜拉达墓园_ Igualada Cemetery.md",
+      "bytes": 1480,
+      "sha256": "df9aadfd1e4e1280327743288804b212679594023c48610e586d95f70b635ebb"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/光之教堂_Church of the Light.md",
+      "bytes": 1179,
+      "sha256": "13109d04be2690a99504d71421b522b753780df69e8b6a70ced4538ed253e597"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/内维格斯朝圣教堂_Pilgrimage Church, Neviges.md",
+      "bytes": 848,
+      "sha256": "d435f20ae973d012faea0ee046772b654cb89f87c50cfa7fd1e5077018fadc1b"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/圣卡塔尔多墓园_San Cataldo Cemetery.md",
+      "bytes": 1139,
+      "sha256": "f5b42de9393dba8d05c0e4c2f0bf65274183cf6bdc7bbe56ebc50421e67fa9dd"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/圣家堂_Sagrada Família.md",
+      "bytes": 2045,
+      "sha256": "5e16991b7da6c1eac5ec74e6638055a8839aebba2e1c6c07089d51ad129d3826"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/圣本笃教堂_Saint Benedict Chapel.md",
+      "bytes": 945,
+      "sha256": "261c47f8c1799010401814b98bf924c1e9980405998a61af03c8be344fac5291"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/巴格斯韦德教堂_The Bagsværd Church.md",
+      "bytes": 1427,
+      "sha256": "bdbf254ed31da894fb31b28199e8e876b4bb3a9986fe3976fb25ea40e1e0e105"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/巴西利亚大教堂_Cathedral of Brasília.md",
+      "bytes": 1277,
+      "sha256": "e638aad2c20b0a572d9db9d378600432ede863a1f25e81bd41043168e9943bf8"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/布里翁墓园_Tomba Brion.md",
+      "bytes": 1470,
+      "sha256": "b557b9d93e86fcbe32259221a03ce59ecfb076c1e1b7ee8fd1114d29a3926d68"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/拉图雷特修道院_Sainte Marie de La Tourette.md",
+      "bytes": 1735,
+      "sha256": "9ae477ffdf36fe1cb38b3d0c0c636de0cd21d03cc32ce62a57c30b1944f6aa8b"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/朗香教堂_Ronchamp Chapel.md",
+      "bytes": 1707,
+      "sha256": "01fc9fffcb62ead7c0e3b7bd372bf58ebdf8fabd02e7791388b99aa9d7feb2bf"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/林地墓园_Woodland Cemetery.md",
+      "bytes": 1025,
+      "sha256": "d35ed8be0933f998b69651b4acb290084a97ad964c1dc5c21685e91315ea31af"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/水之教堂_Church on the Water.md",
+      "bytes": 1009,
+      "sha256": "77c23930215c01cc3febed3d3387f7b58f469e007e82dbe9029347a3002e4290"
+    },
+    {
+      "path": "notes/00 Cases/09 宗教建筑/鹰取纸教堂_Takatori Paper Church.md",
+      "bytes": 610,
+      "sha256": "091dc6ca0a9c01a667ef36f2f7c16a41a880b330a4d31a5c76560b983a782167"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/中银胶囊大厦_ Nakagin Capsule Tower.md",
+      "bytes": 1919,
+      "sha256": "38c67449b1883d415f61592521afb2002f9d2bdb652c680b3f2d7c62ae99f39f"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/代官山集合住宅_Hillside Terrace.md",
+      "bytes": 1333,
+      "sha256": "4fb588c4521ba3d429043b6ce33699bc970f3a78a1b6654b2362dc733cb09d65"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/伊姆斯自宅_Eames House.md",
+      "bytes": 990,
+      "sha256": "d279d9ddfe9afd00f0dd70020eab1dd48555fba9c3787c2a85ab3de8aaa57c30"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/住吉的长屋_Row House in Sumiyoshi.md",
+      "bytes": 1249,
+      "sha256": "d2c6a8506e34be858092409e5d788848f7aa28203a6ab884da086a63b1f99f89"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/克里斯特博马厩与别墅_Cuadra San Cristóbal.md",
+      "bytes": 898,
+      "sha256": "70a08482e13b8967aae959209fbea625a12921939c0d72924586befb3b81100b"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/加拉拉特西公寓_Gallaratese District 2 Housing Complex.md",
+      "bytes": 1484,
+      "sha256": "c9ae03ac39eb62abc321d55043cf9a333af516a923cf68bd18ccd1abfc3cacdf"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/史密斯住宅_Smith House.md",
+      "bytes": 1062,
+      "sha256": "70f6725315c32e4728b5a7a77c16c636e5fb4a7673415944f5a81905c404422c"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/吉拉迪住宅_Casa Gilardi.md",
+      "bytes": 774,
+      "sha256": "cca0d65a0655c3336b62e94a4b668237f0e6546820f89673db3b36c6365c6ecd"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/图根哈特住宅_Villa Tugendhat.md",
+      "bytes": 1996,
+      "sha256": "1fcae206e31703b3d2d5e11691b32c3411b8d8e922d4efa97fd87423a152a7fd"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/夏季别墅_Summer House at Stennäs.md",
+      "bytes": 989,
+      "sha256": "4a4888f0daaa5289e19725adef5bf673633df362c8dd8f6e05d279acd3fa8e46"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/巴拉甘自宅与工作室_Casa Barragan.md",
+      "bytes": 1400,
+      "sha256": "f0f55e8e360f0160b49e9de70607c823dc4e84fb6fa1d9883faa574ce2d0775d"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/拉达匹住宅_Latapie House.md",
+      "bytes": 763,
+      "sha256": "e737429a5fb2d3e50cf36d106c790b0028fa682bd3c38339a336f542716157fc"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/斯塔尔住宅_Stahl House.md",
+      "bytes": 951,
+      "sha256": "dba7c3a195b3acde103725fc528101c37d3ef625e86750dc6926af525b65b8fa"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/施罗德住宅_ Rietveld Schroder House.md",
+      "bytes": 1486,
+      "sha256": "a5c9e4ff97089c33e56f35aec2d3550aea73018d10b19f8b0f66c5b3fbfd40cc"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/栖息地67_Habitat 67.md",
+      "bytes": 1544,
+      "sha256": "d5d603349eb60a1bb19ce2900de887688e548cff31157b2317c71d86f7e54ae5"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/母亲住宅_Vanna Venturi House.md",
+      "bytes": 1071,
+      "sha256": "7cacce59d37cd200988f031caeb2b7b484760f78c721e668a4cafc078edd7fca"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/波尔多住宅_Maison Bordeaux.md",
+      "bytes": 1016,
+      "sha256": "bc87a3c15206bdedc77adba2b162d4f19023a88c120a8f40778dc1e2a62994f1"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/洛弗尔健康别墅_Lovell Health House.md",
+      "bytes": 1497,
+      "sha256": "9e7dd46e2fa18e88d164c49aef0c5d2873bad47b1798276c09bf0873ac845d71"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/洛弗尔海滨住宅_Lovell Beach House.md",
+      "bytes": 1044,
+      "sha256": "bf4aa497cb897e0c93d280b5c90402047193f8ef1404a38a779a28cde2d21a31"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/流水别墅_Fallingwater.md",
+      "bytes": 1281,
+      "sha256": "b27e9aa1245b402102219b0c01483df4c4b6de6b05495f146721112db2544575"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/湖滨公寓_860-880 Lake Shore Drive Apartments.md",
+      "bytes": 2018,
+      "sha256": "44ca051401986b79dc15a8be894d47da2287551ae4e865423c2a2f2700e1769a"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/玛丽·肖特住宅_Marie Short House.md",
+      "bytes": 683,
+      "sha256": "ca906fdc257640e0494510f4cf8fbc7044e1cc2f5e2dc7bb7cd7d4fde4c28907"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/玛利亚别墅_Villa Mairea.md",
+      "bytes": 1353,
+      "sha256": "e03aa98b3a663b23047de87e75950a0576322dceb941fdb869e10455f3581e57"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/玻璃之家_Maison de Verre.md",
+      "bytes": 1535,
+      "sha256": "c74785935d25a5795662737174b49cb3badc232d6fbdc86aa30d3dae835bbab0"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/玻璃屋_Glass House.md",
+      "bytes": 1699,
+      "sha256": "4f491ff7bf10acc11c5f87f13e57c0add34931a265906f247a7e2abd63f3f344"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/盖里自宅_ Gehry Residence.md",
+      "bytes": 1310,
+      "sha256": "50979333b64475fcc7ffa394956df1d22815600e34e885673beddd244170d185"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/穆勒别墅_Villa Müller.md",
+      "bytes": 947,
+      "sha256": "014bd19b7d1b70ed4a82ea039ea7f61605732ba323993dd48089613a8ac99250"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/穆拉茨罗实验住宅_Muuratsalo Experimental House.md",
+      "bytes": 950,
+      "sha256": "0c8b716fb69c6a435f715ac57593a07bf8380543aac0424c23f858d486150ead"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/米兰垂直森林_Bosco Verticale.md",
+      "bytes": 2067,
+      "sha256": "ea1fcdaa896683628b3941137f1839f98aa173aa0085131085201c27215f4968"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/米拉之家_Casa Milà.md",
+      "bytes": 1412,
+      "sha256": "0d5e9f8bc51583cd83565480a43fe14b0a437377dfafe87247ab39bf6239caec"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/米歇尔广场公寓（路斯公寓）_The Looshaus.md",
+      "bytes": 1179,
+      "sha256": "870b8ba8da47cd4635501da641f57116831c673bef65756fc12dd15343d42568"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/罗比住宅_Robie House.md",
+      "bytes": 1231,
+      "sha256": "19f898cf23bcc13910ef10bae99fa4b375700ff5329c897cca34e1602b274039"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/范斯沃斯住宅_Farnsworth House.md",
+      "bytes": 1767,
+      "sha256": "4af0f12ba44dbc8654ca3248860bf6ab72dcf0c3e0b61a633fcfca3e244fb7fd"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/萨伏伊别墅_Villa Savoye.md",
+      "bytes": 1655,
+      "sha256": "e1f5de276e67b39118e233dedfab431d89f0891ee68ce76937394aeef11dca64"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/贝克公寓_MIT Baker House.md",
+      "bytes": 991,
+      "sha256": "526b30bd48d4648cfcf02b7af59d185231c17863e2d45d8e60ba04fe7df6b2b1"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/费城公会大厦_Guild House.md",
+      "bytes": 715,
+      "sha256": "cf0a9f25e0245dd3e2f3ebba41cb1f432e7e2e4de0beff9a6e14580dff21eda2"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/辛德勒住宅_Schindler House.md",
+      "bytes": 991,
+      "sha256": "e50250156fe27979f0807d8a7a84267a8dbb76e37d039944532dc26a95445ee4"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/金塔·蒙罗伊住宅_Quinta Monroy Housing.md",
+      "bytes": 801,
+      "sha256": "f7bbcbc7f8d2a384300f91cca57aa3d4e3d6e4787a4a19c0d2fa3ce1f33ca8d2"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/阿兰若低造价住宅_Aranya Low Cost Housing.md",
+      "bytes": 796,
+      "sha256": "d686eddb6f09d9699f282786a134df49ef2a13f49bea9a4eba12c6e4a602af58"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/马拉帕特别墅_Villa Malaparte.md",
+      "bytes": 1220,
+      "sha256": "a6873b06fc6ad1029dab9988a00d6bd2a470124ecf3d3130aeda502b2d96a113"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/马格尼住宅_Magney House.md",
+      "bytes": 708,
+      "sha256": "7cf958c0297dd31af8b04d1769c50bc4792fcb50f068843611dbbe72308c9deb"
+    },
+    {
+      "path": "notes/00 Cases/10 居住建筑/马赛公寓_Unit d'Habitation, Marseille.md",
+      "bytes": 1983,
+      "sha256": "5ad1f70d2802e269f0e8ab495761501c5f04fe25cb9af35a448c2d02495241ab"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/北加莱海峡当代艺术基金会_FRAC Dunkerque.md",
+      "bytes": 705,
+      "sha256": "e0cfa085e9bb5b3a801b0b169e8b2f77acdf56c21c2729e6629b6db8ac03a14e"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/卡诺瓦雕塑博物馆_Museo Canova.md",
+      "bytes": 1068,
+      "sha256": "8bdc3246e857dab50f3d62d0dd5fd71b3a3647d58346fa7ed439098d4e9afeaf"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/古堡博物馆_Museo di Castelvecchio.md",
+      "bytes": 1407,
+      "sha256": "fda19687703f65dd34d7cc6c416bcaad6b2ebe6a1b6684c88d3ca72df6438da8"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/圣保罗州立美术馆_Pinacoteca do Estado de São Paulo.md",
+      "bytes": 1236,
+      "sha256": "3d4717506315cc1be4e19ab5c8fb71a29ba317edc72c40387f465334f7932e01"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/奎里尼·斯坦帕利亚基金会更新_Fondazione Querini Stampalia.md",
+      "bytes": 1052,
+      "sha256": "7b5dc4011e18b7593cfd5a0277fc4494df13826356b2338691215ec5ad055646"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/智利前哥伦布艺术博物馆扩建_Chile Before Chile.md",
+      "bytes": 761,
+      "sha256": "e8681355c4e6c0ea000afb1b63bb07415cc791646788bf860850293e2f168229"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/柏林新博物馆修复_Neues Museum Restoration.md",
+      "bytes": 904,
+      "sha256": "240b09a93823a2b6e26d23bbd9923b00501bb92e79213950c7de810928b1cf53"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/波尔多530户住宅改造_Transformation of 530 Dwellings, Bordeaux.md",
+      "bytes": 686,
+      "sha256": "f70a7a8653968f30ed97b525502b7907eb75ba68350ad99ea07fdec6e8a4868a"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/泰特现代美术馆_Tate Modern.md",
+      "bytes": 758,
+      "sha256": "35b55f03c32fdfcdd8774954de5761dcace9825adc1e3e22313819dee309811c"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/海德马克博物馆_Hedmark Museum.md",
+      "bytes": 679,
+      "sha256": "8f936c60ba3913c2914f6f57494974b80e7e00fd290a698a3efc7e610a701d8a"
+    },
+    {
+      "path": "notes/00 Cases/11 改造建筑/科伦巴博物馆_Kolumba Museum.md",
+      "bytes": 937,
+      "sha256": "629a63af59578acf302f6a628f1bdd26dd1bbe47ff8b4f58c4b14194a6dc2ef6"
+    },
+    {
+      "path": "notes/00 Cases/12 景观建筑/拉维莱特公园_Parc de la Villette.md",
+      "bytes": 1117,
+      "sha256": "12db3d0c117887548dd19801fc0393e6494a2b9295e368d5fb94181b0edddca8"
+    },
+    {
+      "path": "notes/01 Architect/00 普利兹克.md",
+      "bytes": 2320,
+      "sha256": "e82ee153b7c1ea538b46956a9305b344dad8860eb93d1ae7c0aef6931a41ecf4"
+    },
+    {
+      "path": "notes/01 Architect/Foreign Office Architects (FOA).md",
+      "bytes": 313,
+      "sha256": "d50e3192432cd70481322b6c615830e91356f652e6ab2eb38b8783a2a57a7965"
+    },
+    {
+      "path": "notes/01 Architect/RCR Arquitectes.md",
+      "bytes": 576,
+      "sha256": "a74c515b6f04ffca5dcd5753609e40336bb903a5e8292b976c8121bfa316fd99"
+    },
+    {
+      "path": "notes/01 Architect/SANAA.md",
+      "bytes": 581,
+      "sha256": "1a4f5ad07c7c11a01e2361391b0386667b78bc0c42852d58038738869105ee11"
+    },
+    {
+      "path": "notes/01 Architect/丹下健三 KENZO TANGE.md",
+      "bytes": 581,
+      "sha256": "40166bf4cd6f310221dd6b9d49147f2fb77b215df8aefdf661b17f3386df1e3d"
+    },
+    {
+      "path": "notes/01 Architect/丹尼尔·李布斯金 Daniel Libeskind.md",
+      "bytes": 232,
+      "sha256": "f7b52966f000c8107f45f060663caff4ecef74dd6f1defd602accd3c1bee21f0"
+    },
+    {
+      "path": "notes/01 Architect/丽娜·博·巴蒂 Lina Bo Bardi.md",
+      "bytes": 342,
+      "sha256": "ae60335f3a0f3721940521eedb04a4521072e91146bb3402d2b64c2619352c71"
+    },
+    {
+      "path": "notes/01 Architect/亚历杭德罗·阿拉维纳 Alejandro Aravena.md",
+      "bytes": 447,
+      "sha256": "7f90d69ced4e43dfa70c07aa35fc0c1f28b27971aa07178da40661ab8b8906a1"
+    },
+    {
+      "path": "notes/01 Architect/伊东丰雄 TOYO ITO.md",
+      "bytes": 524,
+      "sha256": "6da86d1bc8477322f6af631d60a36c99fbc8f073681199937dbe898b4e69a428"
+    },
+    {
+      "path": "notes/01 Architect/伦佐·皮亚诺 Renzo Piano.md",
+      "bytes": 576,
+      "sha256": "1b2f57644f1c4a9b465c3352ec0eb3dac5dfb5506272fee55ce165f9549d4d5c"
+    },
+    {
+      "path": "notes/01 Architect/伦德特·范德·卢格特 Leendert van der Vlugt.md",
+      "bytes": 232,
+      "sha256": "5865b644c7f4994a0b725442ec20394e32eed84440d72fdcfde64f27b698f122"
+    },
+    {
+      "path": "notes/01 Architect/伯纳德·屈米 Bernard Tschumi.md",
+      "bytes": 237,
+      "sha256": "f596519cace22559ab77d902a30200c64a6fd913ab8b47050036bda4c7f1d229"
+    },
+    {
+      "path": "notes/01 Architect/保罗·门德斯·达·洛查 Paulo Mendes da Rocha.md",
+      "bytes": 568,
+      "sha256": "98c74400187b89a76d0cf0d3d23032ee918efdc5abf884f33777a53ba958d5a8"
+    },
+    {
+      "path": "notes/01 Architect/克里斯蒂安·德·波特赞姆巴克 Christian de Portzamparc.md",
+      "bytes": 470,
+      "sha256": "24999462a96864723b70750e71322d017294e253b6a5d182e3fac7b59471d5f4"
+    },
+    {
+      "path": "notes/01 Architect/凯文·洛奇 Kevin Roche.md",
+      "bytes": 566,
+      "sha256": "c2cc6a7ed6590c9fdeeccf3140b83560ea7a77b8e1b7c04234a53a30954579d7"
+    },
+    {
+      "path": "notes/01 Architect/刘家琨 Liu Jiakun.md",
+      "bytes": 554,
+      "sha256": "ae11e56d1c6045ffd34d9eb4d38e34ed7d3c59fb341c9bb73d4cdc65d602792c"
+    },
+    {
+      "path": "notes/01 Architect/勒·柯布西耶 Le Corbusier.md",
+      "bytes": 819,
+      "sha256": "3bac435bf65885797187f64e0504d115202cd01b9632d0015c13f7a95c8c7ac2"
+    },
+    {
+      "path": "notes/01 Architect/卡洛·斯卡帕 Carlo Scarpa.md",
+      "bytes": 473,
+      "sha256": "93ccf6f0fa32a25193a8905c467dc8bcd9439402cc4b213c65456749808f11ce"
+    },
+    {
+      "path": "notes/01 Architect/卡洛·艾莫尼诺 Carlo Aymonino.md",
+      "bytes": 262,
+      "sha256": "88a3600f2eac0dbeb61cb50f596e627abf2284ec93a5b2693bcb220e662b3271"
+    },
+    {
+      "path": "notes/01 Architect/原广司 HIROSHI HARA.md",
+      "bytes": 550,
+      "sha256": "caa24a16457ded16a71395364e915014b3d8873c0dae84e494cbf65b2e5671ee"
+    },
+    {
+      "path": "notes/01 Architect/坂茂 SHIGERU BAN.md",
+      "bytes": 507,
+      "sha256": "67cfce7df9e45467944994ab0a2b286bc5a37d091630e62bbb33ef236dff4035"
+    },
+    {
+      "path": "notes/01 Architect/埃里希·门德尔松 Erich Mendelsohn.md",
+      "bytes": 250,
+      "sha256": "d61213dab09de67dec1863cb59af615b4d4862194c49b3d0fa5c1ac048d4eb9d"
+    },
+    {
+      "path": "notes/01 Architect/大卫·奇普菲尔德 David Chipperfield.md",
+      "bytes": 529,
+      "sha256": "44de7b67641e6852ef3ec5bf2656129bbe0f3b58a5202d87edece37427b20e32"
+    },
+    {
+      "path": "notes/01 Architect/奥斯卡·尼迈耶 Oscar Niemeyer.md",
+      "bytes": 577,
+      "sha256": "f091af86c6c9eec41bfff3a8df6cd80d485f3c1b475cc1fae18976aff0d90f07"
+    },
+    {
+      "path": "notes/01 Architect/安东尼·高迪 Antoni Gaudí.md",
+      "bytes": 274,
+      "sha256": "8d5afe82c8383ad814204e453145a47452387b58480f0b0bd6fc1a75888221ca"
+    },
+    {
+      "path": "notes/01 Architect/安藤忠雄 TADAO ANDO.md",
+      "bytes": 539,
+      "sha256": "fdbc5c5dd261f0f898b3d5a1407e2fb0f8807fe7ba5a636e73664e28fb346d8a"
+    },
+    {
+      "path": "notes/01 Architect/密斯·凡·德罗 Ludwig Mies van der Rohe.md",
+      "bytes": 757,
+      "sha256": "e8fb1246f663f102a18509836c25137d694dcf69397d18721293e2d1bc893c39"
+    },
+    {
+      "path": "notes/01 Architect/山本理显 RIKEN YAMAMOTO.md",
+      "bytes": 482,
+      "sha256": "ba2a9e5dc677c3b4174ce3cde23bd035ffbd8bc8d0f026431219a8a07fbf16cc"
+    },
+    {
+      "path": "notes/01 Architect/巴克里希纳·多西 Balkrishna Doshi.md",
+      "bytes": 587,
+      "sha256": "3effe87a0f7c38d7be436e092e7abadcaf9e263fc7b1dd080a3d94d0a506b82b"
+    },
+    {
+      "path": "notes/01 Architect/康斯坦丁·梅尔尼科夫 Konstantin Melnikov.md",
+      "bytes": 242,
+      "sha256": "1d6b9dfb88b05939c88a2f8f3a990822a8bc548cb8e320bbed73d84b5d7cb539"
+    },
+    {
+      "path": "notes/01 Architect/弗兰克·劳埃德·赖特 Frank Lloyd Wright.md",
+      "bytes": 620,
+      "sha256": "7abab40124077359a06914d809a0d063b57a579632dbb9eadf9ddfb5bbb10a6a"
+    },
+    {
+      "path": "notes/01 Architect/弗兰克·盖里 Frank Owen Gehry.md",
+      "bytes": 600,
+      "sha256": "5ef0cc1e4d47dbcfe08592f82419a51c66e0bb06b19453af2f3dc001ffd92c1f"
+    },
+    {
+      "path": "notes/01 Architect/弗赖·奥托 Frei Otto.md",
+      "bytes": 569,
+      "sha256": "d75fa56ef5d740e0c85c98b41b5050862d2f2d02f1ed0a85208e8303164507b0"
+    },
+    {
+      "path": "notes/01 Architect/彼得·卒姆托 Peter Zumthor.md",
+      "bytes": 691,
+      "sha256": "02c82580345d08a137dfd99264ef71955a91a52094804ebc3f014f762175c02f"
+    },
+    {
+      "path": "notes/01 Architect/恩里克·米拉莱斯 Enric Miralles.md",
+      "bytes": 245,
+      "sha256": "2a277087f5bac15a01f8277a277a42aa87c06c0df689acecf1405b4dd84ccc4d"
+    },
+    {
+      "path": "notes/01 Architect/戈特弗里德·玻姆 Gottfried Böhm.md",
+      "bytes": 502,
+      "sha256": "92bc5901b9fd67b0926acb75ed10933f1b6ddbc8379371b0c3584de6cad1c971"
+    },
+    {
+      "path": "notes/01 Architect/戈登·邦夏 Gordon Bunshaf.md",
+      "bytes": 574,
+      "sha256": "6f46c503ba16a503cb0d09857396b8a065ed292e6f14017d7a074541dc9114dd"
+    },
+    {
+      "path": "notes/01 Architect/扎哈·哈迪德 Zaha Hadid.md",
+      "bytes": 527,
+      "sha256": "810464dbe0957159d25979409b79871a22392331f48cc70863100b580b26f73a"
+    },
+    {
+      "path": "notes/01 Architect/拉卡顿与瓦萨尔 Lacaton & Vassal.md",
+      "bytes": 554,
+      "sha256": "7895b033e948ee7745c8884b633dfd33fff7852fcde05a190d89fcec6ca299c8"
+    },
+    {
+      "path": "notes/01 Architect/拉斐尔·莫内欧 Rafael Moneo.md",
+      "bytes": 582,
+      "sha256": "edcc3720ac2948eb67a9add0d3111b6ce1dd02771a8db65c1b6be57f7abb23a8"
+    },
+    {
+      "path": "notes/01 Architect/斯特凡诺·博埃里 Stefano Boeri.md",
+      "bytes": 254,
+      "sha256": "a8e08348527d9cfb2830be1027338714515e489daefb245e78db0a1307ccd4ae"
+    },
+    {
+      "path": "notes/01 Architect/斯米尔扬·拉迪奇·克拉克 Smiljan Radić Clarke.md",
+      "bytes": 569,
+      "sha256": "64caf8268e48cfeb031425f34d31073ad5a1d5f9c36ed3fd011489b6b2fd015c"
+    },
+    {
+      "path": "notes/01 Architect/斯维勒·费恩 Sverre Fehn.md",
+      "bytes": 548,
+      "sha256": "47b73e03d50db8bc52c084e488dbfc8f8bd6d90a2d7c78db6aff3231c72e9281"
+    },
+    {
+      "path": "notes/01 Architect/朱塞佩·特拉尼 Giuseppe Terragni.md",
+      "bytes": 233,
+      "sha256": "4b83003b45c48ba5ef6ad16b2038a1e90bbf72dd6699f89b16edcc6e2f29dab1"
+    },
+    {
+      "path": "notes/01 Architect/格伦·马库特 Glenn Murcutt.md",
+      "bytes": 462,
+      "sha256": "da144e956c2d1f21f331f76f9d3d096aca3cb0d63edc6f4ea8886d6249116859"
+    },
+    {
+      "path": "notes/01 Architect/格拉夫顿建筑事务所 Grafton Architects.md",
+      "bytes": 600,
+      "sha256": "dc2d97741287b706b1f77d60d05f665ae2240d7958317ee837b7dc23b49ea8b2"
+    },
+    {
+      "path": "notes/01 Architect/格里特·里特维尔德 Gerrit Rietveld.md",
+      "bytes": 248,
+      "sha256": "26d0e335bea11acb24f04601c4b45b9366c3b0f0a78e8ce13b71471cccf57538"
+    },
+    {
+      "path": "notes/01 Architect/槙文彦 FUMIHIKO MAKI.md",
+      "bytes": 510,
+      "sha256": "42e1968434a23c4dd359fd0085f2aa13e39ebccc24daa16a658b986336e6f24a"
+    },
+    {
+      "path": "notes/01 Architect/汉斯·霍莱因 Hans Hollein.md",
+      "bytes": 514,
+      "sha256": "76b70bdf6703125db5e92d650a87762ef79942e5cdcd411145049a842104f29f"
+    },
+    {
+      "path": "notes/01 Architect/汤姆·梅恩 Thom Mayne.md",
+      "bytes": 531,
+      "sha256": "ce1477c9035015b063876097e695ee5eb300f47ed3e2d6fb6bec74177ec151e9"
+    },
+    {
+      "path": "notes/01 Architect/王澍 Wang Shu.md",
+      "bytes": 577,
+      "sha256": "72f354f20dc3273da330225e93ffa563385c55144d2f7783f01f3d9b7c9f3be6"
+    },
+    {
+      "path": "notes/01 Architect/理查德·罗杰斯 Richard Rogers.md",
+      "bytes": 521,
+      "sha256": "7f6b6572fe1d664713612257d42f8e48bf84b2468034c8e47a67d4500107bbfb"
+    },
+    {
+      "path": "notes/01 Architect/理查德·诺伊特拉 Richard Neutra.md",
+      "bytes": 246,
+      "sha256": "7184e8c6e9f2d5eb1d489a4bb71034aa65e7e8e8c782de3fbcd3de49d608a8e5"
+    },
+    {
+      "path": "notes/01 Architect/理查德·迈耶 Richard Meier.md",
+      "bytes": 535,
+      "sha256": "46a5425375b69911326560b3efab17724727f654db31e407eebb025a40d5beaa"
+    },
+    {
+      "path": "notes/01 Architect/皮埃尔·科恩格 Pierre Koenig.md",
+      "bytes": 211,
+      "sha256": "ab2615ab9693dbfbd91df87965dc92d8432b0904ef110a2ebbd54eb81ef68d04"
+    },
+    {
+      "path": "notes/01 Architect/石上纯也 JUNYA ISHIGAMI.md",
+      "bytes": 580,
+      "sha256": "5544db97b9be8ef461ea292dc70941180983d33d5f9cdfaa11afe9034b301c43"
+    },
+    {
+      "path": "notes/01 Architect/矶崎新 ARATA ISOZAKI.md",
+      "bytes": 510,
+      "sha256": "8d5406c1fc0d3715c2cfdd480b0cd0d95e3a0c70ad43860f2fda6b13dc4bdd0b"
+    },
+    {
+      "path": "notes/01 Architect/约翰·伍重 Jørn Utzon.md",
+      "bytes": 546,
+      "sha256": "3b540f3e52b9b418c4c7856ef729ff7f036fcfbfa21d499032fd0c6f0ae7effb"
+    },
+    {
+      "path": "notes/01 Architect/约翰·布林克曼 Johannes Brinkman.md",
+      "bytes": 226,
+      "sha256": "6a4770266f3f4710a93953e56409430050eddc6cd7c989b4058a9ca11cdd60bc"
+    },
+    {
+      "path": "notes/01 Architect/罗伯特·文丘里 Robert Venturi.md",
+      "bytes": 568,
+      "sha256": "0474388c84aa6a62b0353a068c005cd8b79cf0a9cd70dd5be7c70bec157bd743"
+    },
+    {
+      "path": "notes/01 Architect/艾德瓦尔多·苏托·德·莫拉 Eduardo Souto de Moura.md",
+      "bytes": 467,
+      "sha256": "ecf0cedc05ee4375e676c1b9336baf2e3f9b56001d2bfe87e1bc0d196ddd0283"
+    },
+    {
+      "path": "notes/01 Architect/菲利普·约翰逊 Philip Johnson.md",
+      "bytes": 675,
+      "sha256": "a5d3a17caacd9dec68d9ca8abd5092887f1f31c3b2413139f637a51e5ee1e9f3"
+    },
+    {
+      "path": "notes/01 Architect/藤本壮介 FUJIMOTO SOU.md",
+      "bytes": 599,
+      "sha256": "20a9bbd3be1e042a682c1b69607dba7ab944fc69cf2e0ba85a77dfa5f6ebe584"
+    },
+    {
+      "path": "notes/01 Architect/西格德·莱韦伦茨 Sigurd Lewerentz, Architect.md",
+      "bytes": 224,
+      "sha256": "6cdcbc72d3f0ba611d090a451a50d8b70fccb5931bd5911f6840cdf596cc7b08"
+    },
+    {
+      "path": "notes/01 Architect/詹姆斯·斯特林 James Frazer Stirling.md",
+      "bytes": 622,
+      "sha256": "ee8cbf6d49d3ac10bab9e56dc12d9efa450e939bbfb694ddf0c9ff0147a80722"
+    },
+    {
+      "path": "notes/01 Architect/让·努维尔 Jean Nouvel.md",
+      "bytes": 534,
+      "sha256": "f39b579a78d4cd5330dd96f4f5df36deb869ba5a71f8665130e1c397e0375873"
+    },
+    {
+      "path": "notes/01 Architect/诺曼·福斯特 Norman Foster.md",
+      "bytes": 542,
+      "sha256": "4cad433ff5e088c1d8cd5ad3973ad3b02d483957f23b8c608f3d333dc790b53b"
+    },
+    {
+      "path": "notes/01 Architect/贝聿铭 I. M. Pei.md",
+      "bytes": 552,
+      "sha256": "7542d85f50fb4c64ff76cf5f8b5d2192ef25325e6c756cdcee62af483d2dfaf7"
+    },
+    {
+      "path": "notes/01 Architect/贡纳尔·阿斯普朗德 Erik Gunnar Asplund.md",
+      "bytes": 487,
+      "sha256": "56b2ce83b11fe696d658d1a70349f69320c43a23077b8bcbc51bc6a1da6d82bb"
+    },
+    {
+      "path": "notes/01 Architect/贾科梅·马特-特鲁科 Giacomo Mattè-Trucco.md",
+      "bytes": 230,
+      "sha256": "5bf3c7307b22d8d56cb3889b2b41f6cdd2332c7388e0c870bca9767ce1c42d74"
+    },
+    {
+      "path": "notes/01 Architect/赫尔佐格与德梅隆 Herzog & de Meuron.md",
+      "bytes": 511,
+      "sha256": "6ea258986d3e5fb7980610cd5be6b516b87ea80e963a03b4153b7c9023103267"
+    },
+    {
+      "path": "notes/01 Architect/路易斯·巴拉干 Luis Barragán.md",
+      "bytes": 587,
+      "sha256": "8a8206c7ff64ce16c00816a79f2eac466b274a4ae153d7331ce41bed11067b98"
+    },
+    {
+      "path": "notes/01 Architect/路易斯·康  Louis Isadore Kahn.md",
+      "bytes": 746,
+      "sha256": "811606692c2fc0bdf2c9646b72493c0a87b34115c5474b2b8dc0dad6a44fad2c"
+    },
+    {
+      "path": "notes/01 Architect/迪埃贝多·弗朗西斯·凯雷 Diébédo Francis Kéré.md",
+      "bytes": 456,
+      "sha256": "7481809add670cbc0bc9368ad8e1e37a3cf3cf504653166adc6a9e69db503e42"
+    },
+    {
+      "path": "notes/01 Architect/阿尔多·凡·艾克 Aldo van Eyck.md",
+      "bytes": 255,
+      "sha256": "f2ba3d90088d4de68e3179da8b01675f640ecb333f3fdfd67cb49479d17e14b3"
+    },
+    {
+      "path": "notes/01 Architect/阿尔多·罗西 Aldo Rossi.md",
+      "bytes": 557,
+      "sha256": "45ddb8f0e287754e6d8d1b19e9e405993404745f4748f21f8ba19971e7c7a0f5"
+    },
+    {
+      "path": "notes/01 Architect/阿尔瓦·阿尔托 Alvar Aalto.md",
+      "bytes": 508,
+      "sha256": "99681273cbcecd3eb6f7dfb6a7594b9442cdc41f9eb1286a772749d8244cc48b"
+    },
+    {
+      "path": "notes/01 Architect/阿尔瓦罗·西扎 Álvaro Siza.md",
+      "bytes": 607,
+      "sha256": "2b5600f65e8bf315c7e2d003166775d5619115617e1f68ac9f6805a0776868ec"
+    },
+    {
+      "path": "notes/01 Architect/阿道夫·路斯 Adolf Loos.md",
+      "bytes": 300,
+      "sha256": "88162fdfb69d0b57a0085d315b992891bce27207300b2923189ea015172f18eb"
+    },
+    {
+      "path": "notes/01 Architect/隈研吾 KENGO KUMA.md",
+      "bytes": 597,
+      "sha256": "6b371e20b56e53f0ad7c6f85f7e535eceb8ae3f7fb50e3570d17a703f8eb1373"
+    },
+    {
+      "path": "notes/01 Architect/雷姆·库哈斯 Rem Koolhaas.md",
+      "bytes": 552,
+      "sha256": "f7a492768c8b70bd37a9018499fe446ce6c9ad8aa413396524305f3b4c84f40a"
+    },
+    {
+      "path": "notes/01 Architect/马塞尔·布劳耶 Marcel Breuer.md",
+      "bytes": 219,
+      "sha256": "b0ebfe32ac54317fce9d02bf8ae237bd02f617f5531fa4db94ffc0cefbf3c206"
+    },
+    {
+      "path": "notes/01 Architect/鲁道夫·辛德勒 Rudolph Michael Schindler.md",
+      "bytes": 322,
+      "sha256": "beec35499bf8e478ea7bf9a6a0552e21370e16da41ba02a4f98186c2897d6cce"
+    },
+    {
+      "path": "notes/01 Architect/黑川纪章 KISHO KUROKAWA.md",
+      "bytes": 500,
+      "sha256": "88e4b6a2463391b8de3112802d71190b5539e5285a0d146970aff285deacc0fd"
+    }
+  ],
+  "outside_scope_link_occurrences": 222,
+  "outside_scope_targets": [
+    "分散聚落式空间",
+    "功能主义",
+    "参数化曲面·非线性表皮",
+    "后现代",
+    "国际风格",
+    "地域材料·夯土瓦爿",
+    "地形化空间",
+    "场所精神与集体记忆",
+    "垂直贯通中庭",
+    "大地作为档案",
+    "层叠错位空间",
+    "巨构与城市内部空间",
+    "庭院与内向空间",
+    "建筑的未完成与生长",
+    "意大利理性主义",
+    "批判性地域主义",
+    "新艺术运动",
+    "新陈代谢派",
+    "有机建筑",
+    "有机雕塑·自由形体",
+    "极简主义",
+    "构成主义",
+    "流动空间",
+    "清水混凝土·粗野表皮",
+    "现代主义",
+    "玻璃幕墙·通透表皮",
+    "白色派",
+    "砌筑砖石·肌理表皮",
+    "空间叙事与路径",
+    "空间的叙事性",
+    "空间的时间感",
+    "粗野主义",
+    "线性空间",
+    "结构主义",
+    "结构外露·机器化立面",
+    "绿化立面·垂直森林",
+    "编织格构·膜与悬索",
+    "网格空间",
+    "自由平面",
+    "色彩与构成立面",
+    "草原住宅",
+    "螺旋流线",
+    "表现主义",
+    "解构主义",
+    "身体感知与空间氛围",
+    "通用空间",
+    "遮阳格栅·双层幕墙",
+    "金属表皮·钛锌反射",
+    "阈限空间与仪式感",
+    "集中式空间",
+    "风格派",
+    "高技派"
+  ],
+  "t100": {
+    "local_snapshot_count": 101,
+    "meaning": "Personal selection of approximately 100 important works, focused on the twentieth century and including a small number of twenty-first-century projects.",
+    "paths": [
+      "notes/00 Cases/01 文化建筑/勒·柯布西耶展_Pavilion Le Corbusier.md",
+      "notes/00 Cases/01 文化建筑/国立西洋美术馆_National Museum of Western Art.md",
+      "notes/00 Cases/01 文化建筑/圣保罗艺术博物馆_São Paulo Museum of Art.md",
+      "notes/00 Cases/01 文化建筑/培亚文化体育中心_SESC Pompeia.md",
+      "notes/00 Cases/01 文化建筑/巴塞罗那德国馆_Barcelona Pavilion.md",
+      "notes/00 Cases/01 文化建筑/布雷根茨美术馆_Kunsthaus Bregenz.md",
+      "notes/00 Cases/01 文化建筑/德国国家美术馆新馆_Neue Nationalgalerie.md",
+      "notes/00 Cases/01 文化建筑/悉尼歌剧院_Sydney Opera House.md",
+      "notes/00 Cases/01 文化建筑/惠特尼美术馆_The Breuer Building.md",
+      "notes/00 Cases/01 文化建筑/所罗门古根海姆博物馆_The Solomon R. Guggenheim Museum.md",
+      "notes/00 Cases/01 文化建筑/拜内克古籍手稿图书馆_Beinecke Rare Book & Manuscript Library.md",
+      "notes/00 Cases/01 文化建筑/斯图加特美术馆_Neue Staatsgalerie.md",
+      "notes/00 Cases/01 文化建筑/斯德哥尔摩公共图书馆_Stockholm Public Library.md",
+      "notes/00 Cases/01 文化建筑/柏林爱乐音乐厅_Berliner Philharmonic.md",
+      "notes/00 Cases/01 文化建筑/柏林犹太人博物馆_Jewish Museum Berlin.md",
+      "notes/00 Cases/01 文化建筑/毕尔巴鄂古根海姆博物馆_ Guggenheim Museum Bilbao.md",
+      "notes/00 Cases/01 文化建筑/维堡图书馆_Viipuri Library.md",
+      "notes/00 Cases/01 文化建筑/菲利普斯埃克塞特学院图书馆_Phillips Exeter Academy Library.md",
+      "notes/00 Cases/01 文化建筑/蓬皮杜中心_The Centre Pompidou.md",
+      "notes/00 Cases/01 文化建筑/西班牙国家罗马艺术博物馆_National Museum of Roman Art.md",
+      "notes/00 Cases/01 文化建筑/金贝尔美术馆_Kimbell Art Museum.md",
+      "notes/00 Cases/01 文化建筑/阿拉伯世界研究中心_The Arab World Institute.md",
+      "notes/00 Cases/01 文化建筑/鲁萨科夫工人俱乐部_Rusakov Workers' Club.md",
+      "notes/00 Cases/02 教育建筑/克朗楼_ S. R. Crown Hall.md",
+      "notes/00 Cases/02 教育建筑/卡彭特视觉艺术中心_Carpenter Visual Art Center.md",
+      "notes/00 Cases/02 教育建筑/印度管理学院_Indian Institute of Management Ahmedabad.md",
+      "notes/00 Cases/02 教育建筑/德绍包豪斯校舍_ Dessau Bauhaus.md",
+      "notes/00 Cases/02 教育建筑/格拉斯哥艺术学校_Glasgow School of Art.md",
+      "notes/00 Cases/02 教育建筑/耶鲁大学艺术与建筑学院大楼_ Yale Art and Architecture Building.md",
+      "notes/00 Cases/02 教育建筑/莱斯特大学工程楼_Engineering Department University of Leicester.md",
+      "notes/00 Cases/02 教育建筑/萨尔克生物研究所_Salk Institute for Biological Studies.md",
+      "notes/00 Cases/03 体育建筑/勒萨·德·帕梅拉游泳池_Leca Swimming Pools.md",
+      "notes/00 Cases/03 体育建筑/国立代代木竞技场_Yoyogi National Gymnasium.md",
+      "notes/00 Cases/03 体育建筑/慕尼黑奥林匹克体育场_Olympiastadion (Munich).md",
+      "notes/00 Cases/05 医疗建筑/理查德医学研究中心_Richard Medical Research Laboratories.md",
+      "notes/00 Cases/05 医疗建筑/瓦尔斯温泉浴场_Therme Vals.md",
+      "notes/00 Cases/06 工业建筑与基础设施/TWA航站楼_TWA Flight Center.md",
+      "notes/00 Cases/06 工业建筑与基础设施/凡耐尔工厂_Van Nelle Factory.md",
+      "notes/00 Cases/06 工业建筑与基础设施/横滨国际港客运中心_Yokohama International Port Terminal.md",
+      "notes/00 Cases/06 工业建筑与基础设施/菲亚特林格托工厂_Fiat Lingotto Factory.md",
+      "notes/00 Cases/06 工业建筑与基础设施/通用电气透平机车间_ AEG Turbine Factory.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/伦敦劳埃德大厦_Lloyd's Building.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/利华大厦_Lever House.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/奥地利邮政储蓄银行_ Austrian Postal Savings Bank.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/棉纺织协会总部_Mill Owners' Association Building.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/福特基金会总部大楼_ Ford Foundation Building.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/约翰逊制蜡公司总部_Johnson Wax Headquarters.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/西格拉姆大厦_Seagram Building.md",
+      "notes/00 Cases/07 商业建筑与办公建筑/香港汇丰银行总部_Hongkong and Shanghai Bank Headquarters.md",
+      "notes/00 Cases/08 公共建筑/哥德堡法院扩建_Gothenburg Courthouse Extension.md",
+      "notes/00 Cases/08 公共建筑/孟加拉国国会大厦_National Parliament of Bangladesh.md",
+      "notes/00 Cases/08 公共建筑/巴西议会大厦_National Congress.md",
+      "notes/00 Cases/08 公共建筑/昌迪加尔议会大厦_Palace of Assembly.md",
+      "notes/00 Cases/08 公共建筑/特拉尼宫_Casa del Fascio.md",
+      "notes/00 Cases/08 公共建筑/珊纳特赛罗市政厅_Säynätsalo Town Hall.md",
+      "notes/00 Cases/08 公共建筑/维特拉消防站_Vitra Fire Station.md",
+      "notes/00 Cases/08 公共建筑/阿姆斯特丹市孤儿院_Amsterdam Orphanage.md",
+      "notes/00 Cases/09 宗教建筑/伊瓜拉达墓园_ Igualada Cemetery.md",
+      "notes/00 Cases/09 宗教建筑/巴格斯韦德教堂_The Bagsværd Church.md",
+      "notes/00 Cases/09 宗教建筑/布里翁墓园_Tomba Brion.md",
+      "notes/00 Cases/09 宗教建筑/拉图雷特修道院_Sainte Marie de La Tourette.md",
+      "notes/00 Cases/09 宗教建筑/朗香教堂_Ronchamp Chapel.md",
+      "notes/00 Cases/09 宗教建筑/林地墓园_Woodland Cemetery.md",
+      "notes/00 Cases/10 居住建筑/中银胶囊大厦_ Nakagin Capsule Tower.md",
+      "notes/00 Cases/10 居住建筑/代官山集合住宅_Hillside Terrace.md",
+      "notes/00 Cases/10 居住建筑/伊姆斯自宅_Eames House.md",
+      "notes/00 Cases/10 居住建筑/加拉拉特西公寓_Gallaratese District 2 Housing Complex.md",
+      "notes/00 Cases/10 居住建筑/史密斯住宅_Smith House.md",
+      "notes/00 Cases/10 居住建筑/图根哈特住宅_Villa Tugendhat.md",
+      "notes/00 Cases/10 居住建筑/夏季别墅_Summer House at Stennäs.md",
+      "notes/00 Cases/10 居住建筑/巴拉甘自宅与工作室_Casa Barragan.md",
+      "notes/00 Cases/10 居住建筑/斯塔尔住宅_Stahl House.md",
+      "notes/00 Cases/10 居住建筑/施罗德住宅_ Rietveld Schroder House.md",
+      "notes/00 Cases/10 居住建筑/栖息地67_Habitat 67.md",
+      "notes/00 Cases/10 居住建筑/母亲住宅_Vanna Venturi House.md",
+      "notes/00 Cases/10 居住建筑/波尔多住宅_Maison Bordeaux.md",
+      "notes/00 Cases/10 居住建筑/洛弗尔健康别墅_Lovell Health House.md",
+      "notes/00 Cases/10 居住建筑/洛弗尔海滨住宅_Lovell Beach House.md",
+      "notes/00 Cases/10 居住建筑/流水别墅_Fallingwater.md",
+      "notes/00 Cases/10 居住建筑/湖滨公寓_860-880 Lake Shore Drive Apartments.md",
+      "notes/00 Cases/10 居住建筑/玛利亚别墅_Villa Mairea.md",
+      "notes/00 Cases/10 居住建筑/玻璃之家_Maison de Verre.md",
+      "notes/00 Cases/10 居住建筑/玻璃屋_Glass House.md",
+      "notes/00 Cases/10 居住建筑/盖里自宅_ Gehry Residence.md",
+      "notes/00 Cases/10 居住建筑/穆勒别墅_Villa Müller.md",
+      "notes/00 Cases/10 居住建筑/穆拉茨罗实验住宅_Muuratsalo Experimental House.md",
+      "notes/00 Cases/10 居住建筑/米兰垂直森林_Bosco Verticale.md",
+      "notes/00 Cases/10 居住建筑/米拉之家_Casa Milà.md",
+      "notes/00 Cases/10 居住建筑/米歇尔广场公寓（路斯公寓）_The Looshaus.md",
+      "notes/00 Cases/10 居住建筑/罗比住宅_Robie House.md",
+      "notes/00 Cases/10 居住建筑/范斯沃斯住宅_Farnsworth House.md",
+      "notes/00 Cases/10 居住建筑/萨伏伊别墅_Villa Savoye.md",
+      "notes/00 Cases/10 居住建筑/贝克公寓_MIT Baker House.md",
+      "notes/00 Cases/10 居住建筑/辛德勒住宅_Schindler House.md",
+      "notes/00 Cases/10 居住建筑/马拉帕特别墅_Villa Malaparte.md",
+      "notes/00 Cases/10 居住建筑/马赛公寓_Unit d'Habitation, Marseille.md",
+      "notes/00 Cases/11 改造建筑/卡诺瓦雕塑博物馆_Museo Canova.md",
+      "notes/00 Cases/11 改造建筑/古堡博物馆_Museo di Castelvecchio.md",
+      "notes/00 Cases/11 改造建筑/圣保罗州立美术馆_Pinacoteca do Estado de São Paulo.md",
+      "notes/00 Cases/11 改造建筑/奎里尼·斯坦帕利亚基金会更新_Fondazione Querini Stampalia.md",
+      "notes/00 Cases/12 景观建筑/拉维莱特公园_Parc de la Villette.md"
+    ]
+  }
+}

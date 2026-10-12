@@ -1,0 +1,41 @@
+{
+  "name": "archcase-android",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "integrate": "node scripts/integrate-archcase.mjs",
+    "build": "npm run integrate && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "check:offline": "node scripts/check-offline.mjs",
+    "sync:android": "npm run build && npm run check:offline && cap sync android",
+    "setup:android": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/setup-android.ps1",
+    "doctor": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/doctor.ps1",
+    "apk:debug": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-android.ps1",
+    "android:open": "cap open android",
+    "ios:add": "npm run build && npm run check:offline && cap add ios",
+    "sync:ios": "npm run build && npm run check:offline && cap sync ios",
+    "ios:open": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/app": "8.1.2",
+    "@capacitor/core": "8.5.3",
+    "@capacitor/ios": "8.5.3",
+    "d3-array": "3.2.4",
+    "d3-geo": "3.1.1",
+    "leaflet": "1.9.4",
+    "leaflet.markercluster": "1.5.3",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3",
+    "vite": "8.3.4"
+  },
+  "license": "MIT"
+}
