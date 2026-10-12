@@ -1,6 +1,6 @@
 # ArchCase Android
 
-简体中文 · [繁體中文](README.zh-TW.md)
+简体中文 · [繁體中文](README.zh-TW.md) · [English](README.en.md)
 
 将建筑案例地图封装为 Capacitor Android 应用。保留 221 个案例、12 个分类、搜索筛选、地图聚合、中英切换与深浅主题。案例主链接指向本仓库的 MD 学习文件；可选原 Notion 来源可能需要权限。
 
@@ -8,11 +8,16 @@ MD 学习文件是案例库的内容，APK 是浏览地图与索引的一种形�
 
 ## 安装包
 
-- [`apk/archcase-debug.apk`](apk/archcase-debug.apk)：版本 `1.0.1`，versionCode `2`，包名 `com.archcase.atlas`。
+- [下载 archcase-debug.apk](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/android/apk/archcase-debug.apk)：版本 `1.0.1`，versionCode `2`，包名 `com.archcase.atlas`。
 - [`apk/archcase-debug.apk.sha256`](apk/archcase-debug.apk.sha256)：文件 SHA-256，可用于校验下载完整性。
 - 最低 Android 7.0（API 24）；目标 Android 16（API 36）。
 
-这是签名通过验证的 Debug 测试安装包，可下载安装体验。Android 会要求允许浏览器或文件管理器安装该文件；按系统提示操作。它尚未作为正式签名的应用商店版本发行。若手机已有使用不同调试签名的旧版，系统可能要求先卸载旧版再安装。
+1. 用 Android 手机浏览器点击上方 **下载 archcase-debug.apk**，等待下载完成。
+2. 从浏览器的下载列表或手机文件管理器打开 `archcase-debug.apk`。
+3. 如果系统提示不允许此来源安装应用，按提示进入设置，允许当前浏览器或文件管理器安装应用，然后返回安装页面。不同手机的选项名称可能不同。
+4. 点击 **安装**，完成后点击 **打开**，或在应用列表中打开 **ArchCase**。
+
+这是签名通过验证的 Debug 测试安装包，尚未作为正式签名的应用商店版本发行。若手机已有使用不同调试签名的旧版，系统可能要求先卸载旧版再安装；卸载会清除旧版的本地应用数据。安装完成后，可以在系统设置中关闭该来源的安装权限。
 
 ## 离线与联网
 
