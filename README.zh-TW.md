@@ -29,12 +29,12 @@
 
 | 版本 | 取得方式 | 適合的用法 |
 | --- | --- | --- |
-| 離線 HTML | [下載 archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase-offline.html) | 單一檔案，下載後用瀏覽器開啟；內建地圖執行資源 |
-| 聯網 HTML | [下載 archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase.html) | 單一較小檔案，開啟時需要連網載入部分資源 |
-| 網頁 / PWA | [網頁檔案與部署說明](web/README.zh-TW.md) | 將 `web/dist/` 放到靜態網站；在支援的瀏覽器中安裝或加入主畫面 |
+| 離線 HTML | [下載 archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13-ios/archcase-offline.html) | 單一檔案，下載後用瀏覽器開啟；內建地圖執行資源 |
+| 聯網 HTML | [下載 archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13-ios/archcase.html) | 執行資源和世界概覽均內建；優先嘗試線上街道地圖 |
+| 網頁 / PWA | [直接開啟網頁版](https://archcase-iphone-atlas.cuddlyshell7.chatgpt.site) · [部署說明](web/README.zh-TW.md) | iPhone / iPad 用 Safari 開啟，再透過分享選單加入主畫面 |
 | Android APK | [下載 archcase-debug.apk](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/android/apk/archcase-debug.apk) · [安裝說明](android/README.zh-TW.md) | Android 7.0 以上的體驗版，目前為 Debug 建置 |
 
-上方 HTML 連結會直接下載 Releases 中的 `.html` 檔案。下載後，在瀏覽器的下載清單或系統檔案管理員中開啟即可；無需複製原始碼或更改副檔名。本儲存庫提供網頁檔案；PWA 部署步驟請見上方說明。
+上方 HTML 連結會直接下載 Releases 中的檔案。電腦用瀏覽器開啟；iPhone / iPad 的「檔案」預覽可能不執行指令碼，新版會顯示靜態地圖與案例索引。完整互動請用 Safari 開啟[公開網頁版](https://archcase-iphone-atlas.cuddlyshell7.chatgpt.site)。兩份 HTML 都內建地圖程式與世界概覽，不再依賴 CDN 啟動；離線版預設使用世界概覽，可按需點選「加载街道地图」。
 
 離線 HTML、APK，以及首次成功快取後的 PWA，可以離線使用**世界概覽、案例索引、搜尋與分類**。街道底圖、GitHub 案例全文與外部來源仍需連網。若要離線閱讀完整筆記，請同時下載 MD 文件。手機對本機 HTML 的支援可能不同；iPhone 可透過 HTTPS 網站使用 PWA。
 

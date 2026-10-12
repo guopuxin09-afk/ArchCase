@@ -31,12 +31,12 @@ If you are unsure where to begin, choose a few T100 works that interest you, the
 
 | Version | Get it | Suggested use |
 | --- | --- | --- |
-| Offline HTML | [Download archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase-offline.html) | One file to download and open in a browser, with map runtime resources included |
-| Online HTML | [Download archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase.html) | A smaller single file that needs a connection to load some resources when opened |
-| Website / PWA | [Website files and deployment guide](web/README.md) | Host `web/dist/` as a static website; install or add it to the Home Screen in a supported browser |
+| Offline HTML | [Download archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13-ios/archcase-offline.html) | One file to download and open in a browser, with map runtime resources included |
+| Online HTML | [Download archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13-ios/archcase.html) | Map code and world overview are embedded; tries online street maps first |
+| Website / PWA | [Open web app](https://archcase-iphone-atlas.cuddlyshell7.chatgpt.site) · [Deployment guide](web/README.md) | On iPhone / iPad, open in Safari and use Share → Add to Home Screen |
 | Android APK | [Download archcase-debug.apk](https://github.com/guopuxin09-afk/ArchCase/raw/refs/heads/main/android/apk/archcase-debug.apk) · [Installation guide](android/README.en.md) | A trial version for Android 7.0 and later, currently a Debug build |
 
-The HTML links above download the `.html` files directly from Releases. Open the saved file from your browser's downloads list or file manager; there is no need to copy source code or change the extension. This repository provides the website files; follow the linked guide above to deploy the PWA.
+The HTML links above download the files directly from Releases. Open them in a desktop browser. The iPhone / iPad Files preview may not run scripts; the new files show a static map and case index there. For full interaction, open the [public web app](https://archcase-iphone-atlas.cuddlyshell7.chatgpt.site) in Safari. Both HTML files include the map code and world overview, with no CDN required to start. The offline edition starts with the world overview; select “Load street map” when you want online detail.
 
 The offline HTML, APK, and PWA after its first successful cache can provide the **world overview, case index, search, and category filters** offline. Street basemaps, full case notes on GitHub, and external sources still require a connection. Download the MD documents as well if you want to read the complete public notes offline. Support for local HTML files varies between phones; iPhone users can access the PWA through an HTTPS website.
 
