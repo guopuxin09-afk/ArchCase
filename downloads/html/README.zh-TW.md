@@ -1,11 +1,13 @@
 # 單一檔案 HTML 下載
 
-[简体中文](README.md) · 繁體中文
+[简体中文](README.md) · 繁體中文 · [English](README.en.md)
+
+點擊下方連結會直接下載 `.html` 檔案。下載完成後，從瀏覽器下載清單或檔案管理員中開啟；無需複製原始碼或更改副檔名。
 
 | 檔案 | 使用方式 |
 | --- | --- |
-| [`archcase.html`](archcase.html) | 按兩下開啟；地圖執行所需函式庫與世界概覽資料從 jsDelivr 載入，失敗時嘗試 unpkg，需要連線。 |
-| [`archcase-offline.html`](archcase-offline.html) | 按兩下開啟；執行所需函式庫、世界概覽與 221 個案例索引均內嵌，可離線使用。 |
+| [下載 archcase.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase.html) | 按兩下開啟；地圖執行所需函式庫與世界概覽資料從 jsDelivr 載入，失敗時嘗試 unpkg，需要連線。 |
+| [下載 archcase-offline.html](https://github.com/guopuxin09-afk/ArchCase/releases/download/html-2026-10-13/archcase-offline.html) | 按兩下開啟；執行所需函式庫、世界概覽與 221 個案例索引均內嵌，可離線使用。 |
 
 兩版使用同一套案例資料與介面。案例主連結指向儲存庫內 MD 學習文件；可選原 Notion 來源可能需要權限。
 
@@ -15,4 +17,4 @@
 
 行動瀏覽器直接開啟本機 HTML 的能力因系統而異；手機使用可安裝的 [`網頁版`](../../web/README.zh-TW.md) 或 [`Android APK`](../../android/README.zh-TW.md) 更方便。
 
-離線檔案由 `web/scripts/build-standalone.cjs` 產生，包含第三方授權聲明。修改地圖原始碼後，進入 `web/` 執行 `npm run build:standalone` 重新產生。
+離線檔案由 `web/scripts/build-standalone.cjs` 產生，包含第三方授權聲明。修改地圖原始碼後，進入 `web/` 執行 `npm run build:standalone` 重新產生。公開新版時，將兩份 HTML 上傳為新 Release 的附件，並同步更新三語下載連結。
